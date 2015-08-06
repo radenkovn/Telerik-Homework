@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\18. Extract e-mails\bin\Debug\_18.Extract_e_mails.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\18. Extract e-mails\bin\Debug\_18.Extract_e_mails.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\18. Extract e-mails\bin\Debug\_18.Extract_e_mails.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\18. Extract e-mails\obj\Debug\_18.Extract_e_mails.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\18. Extract e-mails\obj\Debug\_18.Extract_e_mails.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 06 Strings and Text Processing\18. Extract e-mails\bin\Debug\_18.Extract_e_mails.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 06 Strings and Text Processing\18. Extract e-mails\obj\Debug\_18.Extract_e_mails.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 06 Strings and Text Processing\18. Extract e-mails\obj\Debug\_18.Extract_e_mails.pdb

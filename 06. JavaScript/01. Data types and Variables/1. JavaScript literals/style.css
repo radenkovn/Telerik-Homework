@@ -1,0 +1,18 @@
+body {
+    padding: 25px;
+    background-color: gray;
+    color: yellow;
+}
+
+input {
+    background-color: lightblue;
+}
+
+#output {
+    background-color: black;
+    color: yellow;
+    display: block;
+    height: 700px;
+    width: 500px;
+    padding: 20px;
+}

@@ -1,0 +1,58 @@
+﻿table {
+    /*border: 1px solid black;*/
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    font-family: Calibri;
+    border-collapse: collapse;
+}
+
+th {
+    border: 1px solid gray;
+    border-top: none;
+    background-color: #63BE23;
+    text-align: left;
+    color: white;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    font-family: Calibri;
+    padding: 3px;
+    margin: 0;
+    padding-bottom: 6px;
+}
+
+td {
+    border-right: 1px solid darkgoldenrod;
+    padding: 3px;
+    margin: 0;
+    height: 25px;
+}
+
+.row-change {
+    background-color: #ECECD8;
+}
+
+.nameCell {
+    border-left: none;
+    width: 150px;
+}
+
+.cityCell {
+    width: 100px;
+}
+
+.countryCell {
+    width: 110px;
+}
+
+.inputCell {
+    width: 90px;
+    border-right: none;
+}
+

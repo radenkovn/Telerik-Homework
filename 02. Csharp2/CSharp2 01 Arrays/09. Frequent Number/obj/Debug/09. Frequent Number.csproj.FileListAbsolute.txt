@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\09. Frequent Number\bin\Debug\_09.Frequent_Number.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\09. Frequent Number\bin\Debug\_09.Frequent_Number.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\09. Frequent Number\bin\Debug\_09.Frequent_Number.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\09. Frequent Number\obj\Debug\_09.Frequent_Number.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\09. Frequent Number\obj\Debug\_09.Frequent_Number.pdb

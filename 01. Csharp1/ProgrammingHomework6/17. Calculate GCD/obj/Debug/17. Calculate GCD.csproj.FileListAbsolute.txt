@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\17. Calculate GCD\bin\Debug\_17.Calculate_GCD.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\17. Calculate GCD\bin\Debug\_17.Calculate_GCD.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\17. Calculate GCD\bin\Debug\_17.Calculate_GCD.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\17. Calculate GCD\obj\Debug\_17.Calculate_GCD.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\17. Calculate GCD\obj\Debug\_17.Calculate_GCD.pdb

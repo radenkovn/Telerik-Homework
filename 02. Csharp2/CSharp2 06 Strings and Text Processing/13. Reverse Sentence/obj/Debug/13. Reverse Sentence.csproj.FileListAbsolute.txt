@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\13. Reverse Sentence\bin\Debug\_13.Reverse_Sentence.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\13. Reverse Sentence\bin\Debug\_13.Reverse_Sentence.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\13. Reverse Sentence\bin\Debug\_13.Reverse_Sentence.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\13. Reverse Sentence\obj\Debug\_13.Reverse_Sentence.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\13. Reverse Sentence\obj\Debug\_13.Reverse_Sentence.pdb

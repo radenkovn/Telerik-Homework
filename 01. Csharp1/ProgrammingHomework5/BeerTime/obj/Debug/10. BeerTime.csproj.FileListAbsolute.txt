@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\BeerTime\bin\Debug\BeerTime.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\BeerTime\obj\Debug\BeerTime.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\BeerTime\obj\Debug\BeerTime.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\BeerTime\bin\Debug\BeerTime.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\BeerTime\bin\Debug\BeerTime.pdb

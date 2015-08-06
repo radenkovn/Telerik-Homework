@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\CSharp2 01 Arrays\bin\Debug\CSharp2 01 Arrays.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\CSharp2 01 Arrays\bin\Debug\CSharp2 01 Arrays.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\CSharp2 01 Arrays\bin\Debug\CSharp2 01 Arrays.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\CSharp2 01 Arrays\obj\Debug\01. Allocate Array.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\CSharp2 01 Arrays\obj\Debug\CSharp2 01 Arrays.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\CSharp2 01 Arrays\obj\Debug\CSharp2 01 Arrays.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 01 Arrays\CSharp2 01 Arrays\bin\Debug\CSharp2 01 Arrays.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 01 Arrays\CSharp2 01 Arrays\obj\Debug\CSharp2 01 Arrays.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 01 Arrays\CSharp2 01 Arrays\obj\Debug\CSharp2 01 Arrays.pdb

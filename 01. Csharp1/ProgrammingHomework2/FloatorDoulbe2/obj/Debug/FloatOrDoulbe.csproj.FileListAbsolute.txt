@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\FloatorDoulbe2\bin\Debug\FloatorDoulbe2.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\FloatorDoulbe2\bin\Debug\FloatorDoulbe2.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\FloatorDoulbe2\bin\Debug\FloatorDoulbe2.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\FloatorDoulbe2\obj\Debug\FloatorDoulbe2.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\FloatorDoulbe2\obj\Debug\FloatorDoulbe2.pdb

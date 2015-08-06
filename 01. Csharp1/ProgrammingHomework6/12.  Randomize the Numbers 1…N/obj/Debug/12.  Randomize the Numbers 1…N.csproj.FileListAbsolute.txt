@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\12.  Randomize the Numbers 1…N\bin\Debug\_12.Randomize_the_Numbers_1_N.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\12.  Randomize the Numbers 1…N\bin\Debug\_12.Randomize_the_Numbers_1_N.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\12.  Randomize the Numbers 1…N\bin\Debug\_12.Randomize_the_Numbers_1_N.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\12.  Randomize the Numbers 1…N\obj\Debug\12.  Randomize the Numbers 1…N.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\12.  Randomize the Numbers 1…N\obj\Debug\_12.Randomize_the_Numbers_1_N.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\12.  Randomize the Numbers 1…N\obj\Debug\_12.Randomize_the_Numbers_1_N.pdb

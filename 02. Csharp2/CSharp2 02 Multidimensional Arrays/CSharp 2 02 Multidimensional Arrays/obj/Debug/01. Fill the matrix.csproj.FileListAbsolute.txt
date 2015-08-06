@@ -1,0 +1,15 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\bin\Debug\CSharp 2 02 Multidimensional Arrays.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\bin\Debug\CSharp 2 02 Multidimensional Arrays.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\bin\Debug\CSharp 2 02 Multidimensional Arrays.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\obj\Debug\01. Fill the matrix.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\obj\Debug\CSharp 2 02 Multidimensional Arrays.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\obj\Debug\CSharp 2 02 Multidimensional Arrays.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\bin\Debug\CSharp 2 02 Multidimensional Arrays.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\obj\Debug\CSharp 2 02 Multidimensional Arrays.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\obj\Debug\CSharp 2 02 Multidimensional Arrays.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\bin\Debug\CSharp 2 02 Multidimensional Arrays.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\bin\Debug\CSharp 2 02 Multidimensional Arrays.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\obj\Debug\01. Fill the matrix.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\Csharp2\CSharp2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\bin\Debug\CSharp 2 02 Multidimensional Arrays.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\Csharp2\CSharp2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\obj\Debug\CSharp 2 02 Multidimensional Arrays.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\Csharp2\CSharp2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\obj\Debug\CSharp 2 02 Multidimensional Arrays.pdb

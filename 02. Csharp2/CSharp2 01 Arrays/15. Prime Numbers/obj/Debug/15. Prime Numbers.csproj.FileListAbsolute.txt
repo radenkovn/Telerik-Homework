@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\15. Prime Numbers\bin\Debug\_15.Prime_Numbers.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\15. Prime Numbers\bin\Debug\_15.Prime_Numbers.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\15. Prime Numbers\bin\Debug\_15.Prime_Numbers.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\15. Prime Numbers\obj\Debug\15. Prime Numbers.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\15. Prime Numbers\obj\Debug\_15.Prime_Numbers.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\15. Prime Numbers\obj\Debug\_15.Prime_Numbers.pdb

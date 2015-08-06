@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NumberPrint\bin\Debug\NumberPrint.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NumberPrint\bin\Debug\NumberPrint.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NumberPrint\bin\Debug\NumberPrint.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NumberPrint\obj\Debug\NumberPrint.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NumberPrint\obj\Debug\NumberPrint.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\NumberPrint\obj\Debug\NumberPrint.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\14. Word Dictionary\bin\Debug\_14.Word_Dictionary.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\14. Word Dictionary\bin\Debug\_14.Word_Dictionary.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\14. Word Dictionary\bin\Debug\_14.Word_Dictionary.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\14. Word Dictionary\obj\Debug\_14.Word_Dictionary.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\14. Word Dictionary\obj\Debug\_14.Word_Dictionary.pdb

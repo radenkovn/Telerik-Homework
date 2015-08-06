@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\04. Compare text files\bin\Debug\_04.Compare_text_files.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\04. Compare text files\bin\Debug\_04.Compare_text_files.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\04. Compare text files\bin\Debug\_04.Compare_text_files.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\04. Compare text files\obj\Debug\_04.Compare_text_files.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\04. Compare text files\obj\Debug\_04.Compare_text_files.pdb

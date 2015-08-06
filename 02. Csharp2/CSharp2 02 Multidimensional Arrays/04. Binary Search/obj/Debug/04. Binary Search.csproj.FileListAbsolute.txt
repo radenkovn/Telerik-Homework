@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\04. Binary Search\bin\Debug\_04.Binary_Search.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\04. Binary Search\bin\Debug\_04.Binary_Search.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\04. Binary Search\bin\Debug\_04.Binary_Search.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\04. Binary Search\obj\Debug\04. Binary Search.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\04. Binary Search\obj\Debug\_04.Binary_Search.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\04. Binary Search\obj\Debug\_04.Binary_Search.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional Arrays\04. Binary Search\bin\Debug\_04.Binary_Search.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional Arrays\04. Binary Search\obj\Debug\_04.Binary_Search.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional Arrays\04. Binary Search\obj\Debug\_04.Binary_Search.pdb

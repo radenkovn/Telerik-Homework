@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\EmployeeData\obj\Debug\EmployeeData.pdb
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\EmployeeData\bin\Debug\EmployeeData.pdb

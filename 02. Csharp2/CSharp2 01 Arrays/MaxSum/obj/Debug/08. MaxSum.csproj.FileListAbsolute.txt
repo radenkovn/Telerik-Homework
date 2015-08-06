@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\MaxSum\bin\Debug\MaxSum.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\MaxSum\bin\Debug\MaxSum.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\MaxSum\bin\Debug\MaxSum.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\MaxSum\obj\Debug\08. MaxSum.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\MaxSum\obj\Debug\MaxSum.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\MaxSum\obj\Debug\MaxSum.pdb

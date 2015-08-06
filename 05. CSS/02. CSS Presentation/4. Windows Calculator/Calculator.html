@@ -1,0 +1,300 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Calculator</title>
+    <link href="styles.css" rel="stylesheet" />
+</head>
+<body>
+    <form>
+        <table>
+            <thead>
+                <tr>
+                    <th colspan="9">
+                        <button>View</button>
+                        <button>Edit</button>
+                        <button>Help</button>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="result-area" colspan="9">
+                        <div class="result-area-outer">
+                            <div class="result-area-box">8854455</div>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="byte-td" colspan="9">
+                        <div class="inner-binary-div">
+                            <table class="inner-binary-table">
+                                <tr>
+                                    <td>
+                                        <label class="normal-bin-1">0000</label>
+                                        <label class="sub-bin-1">63</label>
+                                    </td>
+                                    <td>
+                                        <label class="normal-bin-2">0000</label>
+                                    </td>
+                                    <td>
+                                        <label class="normal-bin-3">0000</label>
+                                    </td>
+                                    <td>
+                                        <label class="normal-bin-4">0000</label>
+                                    </td>
+                                    <td>
+                                        <label class="normal-bin-5">0000</label>
+                                        <label class="sub-bin-2">47</label>
+                                    </td>
+                                    <td>
+                                        <label class="normal-bin-6">0000</label>
+                                    </td>
+                                    <td>
+                                        <label class="normal-bin-7">0000</label>
+                                    </td>
+                                    <td>
+                                        <label class="normal-bin-8">0000</label>
+                                        <label class="sub-bin-3">32</label>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <label class="normal-bin-1">0000</label>
+                                        <label class="sub-bin-1">31</label>
+                                    </td>
+                                    <td>
+                                        <label class="normal-bin-2">0000</label>
+                                    </td>
+                                    <td>
+                                        <label class="normal-bin-3">1000</label>
+                                    </td>
+                                    <td>
+                                        <label class="normal-bin-4">0111</label>
+                                    </td>
+                                    <td>
+                                        <label class="normal-bin-5">0001</label>
+                                        <label class="sub-bin-2">15</label>
+                                    </td>
+                                    <td>
+                                        <label class="normal-bin-6">1011</label>
+                                    </td>
+                                    <td>
+                                        <label class="normal-bin-7">1011</label>
+                                    </td>
+                                    <td>
+                                        <label class="normal-bin-8">0111</label>
+                                        <label class="sub-bin-4">0</label>
+                                    </td>
+                                </tr>
+                            </table>
+                        </div>
+                    </td>
+                </tr>
+                <!--First row MC-->
+                <tr>
+                    <td class="first-list" rowspan="3">
+                        <div class="radios-div">
+                            <ul>
+                                <li>
+                                    <input id="first-1" type="radio" name="radios1[]" />
+                                    <label for="first-1">Hex</label>
+                                </li>
+                                <li>
+                                    <input id="first-2" type="radio" name="radios1[]" />
+                                    <label for="first-2">Dec</label>
+                                </li>
+                                <li>
+                                    <input id="first-3" type="radio" name="radios1[]" />
+                                    <label for="first-3">Oct</label>
+                                </li>
+                                <li>
+                                    <input id="first-4" type="radio" name="radios1[]" />
+                                    <label for="first-4">Bin</label>
+                                </li>
+                            </ul>
+                        </div>
+                    </td>
+                    <td>
+                        <div class="empty-divs"></div>
+                    </td>
+                    <td>
+                        <button class="button-type-1">Mod</button>
+                    </td>
+                    <td>
+                        <div class="empty-divs">A</div>
+                    </td>
+                    <td>
+                        <button class="button-type-2">MC</button>
+                    </td>
+                    <td>
+                        <button class="button-type-2">MR</button>
+                    </td>
+                    <td>
+                        <button class="button-type-2">MS</button>
+                    </td>
+                    <td>
+                        <button class="button-type-2">M+</button>
+                    </td>
+                    <td>
+                        <button class="button-type-2" id="margin-tweak">M-</button>
+                    </td>
+                </tr>
+                <!-- second row ( )-->
+                <tr>
+                    <td>
+                        <button class="button-type-1">(</button>
+                    </td>
+                    <td>
+                        <button class="button-type-1">)</button>
+                    </td>
+                    <td>
+                        <div class="empty-divs">B</div>
+                    </td>
+                    <td>
+                        <button class="button-type-1" id="arrow">←</button>
+                    </td>
+                    <td>
+                        <button class="button-type-1">CE</button>
+                    </td>
+                    <td>
+                        <button class="button-type-1">C</button>
+                    </td>
+                    <td>
+                        <button class="button-type-1">+/-</button>
+                    </td>
+                    <td>
+                        <div class="empty-divs">√</div>
+                    </td>
+                </tr>
+                <!-- third row RoL-->
+                <tr>
+                    <td>
+                        <button class="button-type-1">RoL</button>
+                    </td>
+                    <td>
+                        <button class="button-type-1">RoR</button>
+                    </td>
+                    <td>
+                        <div class="empty-divs">C</div>
+                    </td>
+                    <td>
+                        <button class="button-type-3">7</button>
+                    </td>
+                    <td>
+                        <button class="button-type-3">8</button>
+                    </td>
+                    <td>
+                        <button class="button-type-3">9</button>
+                    </td>
+                    <td>
+                        <button class="button-type-1">/</button>
+                    </td>
+                    <td>
+                        <div class="empty-divs">%</div>
+                    </td>
+                </tr>
+                <!-- fourth row Or-->
+                <tr>
+                    <td class="second-list" rowspan="3">
+                        <div class="radios-div" id="radio-tweak">
+                            <ul>
+                                <li>
+                                    <input id="second-1" type="radio" name="radios2[]" />
+                                    <label for="second-1">Qword</label>
+                                </li>
+                                <li>
+                                    <input id="second-2" type="radio" name="radios2[]" />
+                                    <label for="second-2">Dword</label>
+                                </li>
+                                <li>
+                                    <input id="second-3" type="radio" name="radios2[]" />
+                                    <label for="second-3">Word</label>
+                                </li>
+                                <li>
+                                    <input id="second-4" type="radio" name="radios2[]" />
+                                    <label for="second-4">Byte</label>
+                                </li>
+                            </ul>
+                        </div>
+                    </td>
+                    <td>
+                        <button class="button-type-1">Or</button>
+                    </td>
+                    <td>
+                        <button class="button-type-1">Xor</button>
+                    </td>
+                    <td>
+                        <div class="empty-divs">D</div>
+                    </td>
+                    <td>
+                        <button class="button-type-3">4</button>
+                    </td>
+                    <td>
+                        <button class="button-type-3">5</button>
+                    </td>
+                    <td>
+                        <button class="button-type-3">6</button>
+                    </td>
+                    <td>
+                        <button class="button-type-1">*</button>
+                    </td>
+                    <td>
+                        <div class="empty-divs">1/x</div>
+                    </td>
+                </tr>
+                <!-- fifth row Lsh-->
+                <tr>
+                    <td>
+                        <button class="button-type-1">Lsh</button>
+                    </td>
+                    <td>
+                        <button class="button-type-1">Rsh</button>
+                    </td>
+                    <td>
+                        <div class="empty-divs">E</div>
+                    </td>
+                    <td>
+                        <button class="button-type-3">1</button>
+                    </td>
+                    <td>
+                        <button class="button-type-3">2</button>
+                    </td>
+                    <td>
+                        <button class="button-type-3">3</button>
+                    </td>
+                    <td>
+                        <button class="button-type-1">-</button>
+                    </td>
+                    <td rowspan="2">
+                        <button class="button-type-4">=</button>
+                    </td>
+                </tr>
+                <!-- sixth row Not And-->
+                <tr>
+                    <td>
+                        <button class="button-type-1">Not</button>
+                    </td>
+                    <td>
+                        <button class="button-type-1">And</button>
+                    </td>
+                    <td>
+                        <div class="empty-divs">F</div>
+                    </td>
+                    <td colspan="2">
+                        <button class="button-type-5">0</button>
+                    </td>
+                    <td>
+                        <div class="empty-divs">.</div>
+                    </td>
+                    <td>
+                        <button class="button-type-1">+</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td  colspan="9"class="bottom-row-tweak"></td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>

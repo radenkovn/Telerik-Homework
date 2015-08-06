@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\PlayCard\bin\Debug\PlayCard.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\PlayCard\obj\Debug\PlayCard.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\PlayCard\bin\Debug\PlayCard.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\PlayCard\bin\Debug\PlayCard.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\PlayCard\obj\Debug\PlayCard.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\PlayCard\obj\Debug\PlayCard.pdb

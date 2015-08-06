@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\09. Sorting Array\bin\Debug\_09.Sorting_Array.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\09. Sorting Array\bin\Debug\_09.Sorting_Array.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\09. Sorting Array\bin\Debug\_09.Sorting_Array.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\09. Sorting Array\obj\Debug\_09.Sorting_Array.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\09. Sorting Array\obj\Debug\_09.Sorting_Array.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\09. Sorting Array\obj\Debug\09. Sorting Array.csprojResolveAssemblyReference.cache

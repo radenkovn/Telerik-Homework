@@ -1,0 +1,21 @@
+﻿div {
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 16px;
+    font-family: Consolas;
+    width: 80%;
+    color: #0094ff;
+}
+
+div:first-line {
+    font-weight: bold;
+    line-height: 50px;
+    height: 50px;
+}
+
+div:first-letter {
+    font-family: 'Edwardian Script ITC';
+    font-size: 30px;
+}

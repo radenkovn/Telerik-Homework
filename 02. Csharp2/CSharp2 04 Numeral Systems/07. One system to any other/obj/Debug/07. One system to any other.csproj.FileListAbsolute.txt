@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\07. One system to any other\bin\Debug\_07.One_system_to_any_other.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\07. One system to any other\bin\Debug\_07.One_system_to_any_other.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\07. One system to any other\bin\Debug\_07.One_system_to_any_other.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\07. One system to any other\obj\Debug\_07.One_system_to_any_other.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\07. One system to any other\obj\Debug\_07.One_system_to_any_other.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\07. One system to any other\obj\Debug\07. One system to any other.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 04 Numeral Systems\07. One system to any other\bin\Debug\_07.One_system_to_any_other.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 04 Numeral Systems\07. One system to any other\obj\Debug\_07.One_system_to_any_other.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 04 Numeral Systems\07. One system to any other\obj\Debug\_07.One_system_to_any_other.pdb

@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\12. Polynomials Extended\bin\Debug\_12.Polynomials_Extended.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\12. Polynomials Extended\bin\Debug\_12.Polynomials_Extended.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\12. Polynomials Extended\bin\Debug\_12.Polynomials_Extended.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\12. Polynomials Extended\obj\Debug\_12.Polynomials_Extended.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\12. Polynomials Extended\obj\Debug\_12.Polynomials_Extended.pdb

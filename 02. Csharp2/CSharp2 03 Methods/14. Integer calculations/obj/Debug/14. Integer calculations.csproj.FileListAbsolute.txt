@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\14. Integer calculations\bin\Debug\_14.Integer_calculations.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\14. Integer calculations\bin\Debug\_14.Integer_calculations.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\14. Integer calculations\bin\Debug\_14.Integer_calculations.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\14. Integer calculations\obj\Debug\14. Integer calculations.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\14. Integer calculations\obj\Debug\_14.Integer_calculations.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\14. Integer calculations\obj\Debug\_14.Integer_calculations.pdb

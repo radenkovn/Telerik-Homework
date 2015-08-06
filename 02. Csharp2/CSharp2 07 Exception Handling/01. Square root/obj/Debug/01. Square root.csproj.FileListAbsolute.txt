@@ -1,0 +1,5 @@
+C:\Users\Admin\documents\visual studio 2013\Projects\CSharp2 07 Exception Handling\01. Square root\bin\Debug\_01.Square_root.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 07 Exception Handling\01. Square root\bin\Debug\_01.Square_root.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 07 Exception Handling\01. Square root\bin\Debug\_01.Square_root.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 07 Exception Handling\01. Square root\obj\Debug\_01.Square_root.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 07 Exception Handling\01. Square root\obj\Debug\_01.Square_root.pdb

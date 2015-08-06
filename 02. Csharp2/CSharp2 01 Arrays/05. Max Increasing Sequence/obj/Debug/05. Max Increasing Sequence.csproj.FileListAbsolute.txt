@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\05. Max Increasing Sequence\bin\Debug\_05.Max_Increasing_Sequence.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\05. Max Increasing Sequence\bin\Debug\_05.Max_Increasing_Sequence.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\05. Max Increasing Sequence\bin\Debug\_05.Max_Increasing_Sequence.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\05. Max Increasing Sequence\obj\Debug\_05.Max_Increasing_Sequence.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\05. Max Increasing Sequence\obj\Debug\_05.Max_Increasing_Sequence.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\05. Max Increasing Sequence\obj\Debug\05. Max Increasing Sequence.csprojResolveAssemblyReference.cache

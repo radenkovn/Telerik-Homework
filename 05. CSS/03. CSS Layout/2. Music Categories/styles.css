@@ -1,0 +1,89 @@
+﻿body {
+    background-color: #EEEEEE;
+}
+
+ul {
+    list-style: none;
+}
+
+img {
+    width: 150px;
+    border: 1px solid #9B9695;
+    position: relative;
+    top: 19px;
+    left: 19px;
+}
+
+li > div {
+    width: 500px;
+    height: 140px;
+    border: 1px solid #9B9695;
+    background-color: white;
+    margin-bottom: 40px;
+}
+
+div div {
+    width: 300px;
+    height: 140px;
+    position: relative;
+    top: -88px;
+    left: 190px;
+}
+
+button {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+label {
+    color: white;
+    font-family: arial;
+    font-size: 13px;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.long-image {
+    position: relative;
+    top: -151px;
+    left: 342px;
+    z-index: 0;
+}
+
+.long-text {
+    position: relative;
+    top: -157px;
+    left: 289px;
+}
+
+.short-image {
+    position: relative;
+    top: -151px;
+    left: 304px;
+    z-index: 0;
+}
+
+.short-text {
+    position: relative;
+    top: -157px;
+    left: 263px;
+}
+
+h2 {
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 40px;
+    font-family: 'Agency FB';
+}

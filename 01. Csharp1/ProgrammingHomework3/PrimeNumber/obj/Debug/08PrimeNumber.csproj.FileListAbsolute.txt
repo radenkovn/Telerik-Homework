@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\PrimeNumber\obj\Debug\PrimeNumber.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\PrimeNumber\obj\Debug\PrimeNumber.pdb

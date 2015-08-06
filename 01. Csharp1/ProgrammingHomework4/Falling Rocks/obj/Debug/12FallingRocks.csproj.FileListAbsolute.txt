@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\Falling Rocks\bin\Debug\Falling Rocks.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\Falling Rocks\obj\Debug\Falling Rocks.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\Falling Rocks\obj\Debug\Falling Rocks.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework4\Falling Rocks\bin\Debug\Falling Rocks.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework4\Falling Rocks\obj\Debug\Falling Rocks.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework4\Falling Rocks\obj\Debug\Falling Rocks.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework4\Falling Rocks\bin\Debug\Falling Rocks.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework4\Falling Rocks\bin\Debug\Falling Rocks.pdb

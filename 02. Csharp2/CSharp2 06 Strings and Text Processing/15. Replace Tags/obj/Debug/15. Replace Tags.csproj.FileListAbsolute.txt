@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\15. Replace Tags\bin\Debug\_15.Replace_Tags.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\15. Replace Tags\bin\Debug\_15.Replace_Tags.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\15. Replace Tags\bin\Debug\_15.Replace_Tags.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\15. Replace Tags\obj\Debug\_15.Replace_Tags.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\15. Replace Tags\obj\Debug\_15.Replace_Tags.pdb

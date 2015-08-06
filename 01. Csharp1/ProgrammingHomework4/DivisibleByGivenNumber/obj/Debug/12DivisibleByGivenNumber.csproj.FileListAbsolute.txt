@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\DivisibleByGivenNumber\bin\Debug\DivisibleByGivenNumber.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\DivisibleByGivenNumber\obj\Debug\DivisibleByGivenNumber.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\DivisibleByGivenNumber\obj\Debug\DivisibleByGivenNumber.pdb

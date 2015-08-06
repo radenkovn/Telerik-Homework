@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\ThirdDigitSeven\bin\Debug\ThirdDigitSeven.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\ThirdDigitSeven\obj\Debug\ThirdDigitSeven.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\ThirdDigitSeven\obj\Debug\ThirdDigitSeven.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\ThirdDigitSeven\bin\Debug\ThirdDigitSeven.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\ThirdDigitSeven\obj\Debug\ThirdDigitSeven.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\ThirdDigitSeven\obj\Debug\ThirdDigitSeven.pdb

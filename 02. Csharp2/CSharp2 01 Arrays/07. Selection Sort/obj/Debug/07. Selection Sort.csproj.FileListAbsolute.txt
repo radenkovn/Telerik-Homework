@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\07. Selection Sort\bin\Debug\_07.Selection_Sort.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\07. Selection Sort\bin\Debug\_07.Selection_Sort.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\07. Selection Sort\bin\Debug\_07.Selection_Sort.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\07. Selection Sort\obj\Debug\07. Selection Sort.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\07. Selection Sort\obj\Debug\_07.Selection_Sort.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\07. Selection Sort\obj\Debug\_07.Selection_Sort.pdb

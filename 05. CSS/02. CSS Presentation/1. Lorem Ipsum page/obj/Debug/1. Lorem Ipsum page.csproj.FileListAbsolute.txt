@@ -1,0 +1,18 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSS Presentation\1. Lorem Ipsum page\bin\_1.Lorem_Ipsum_page.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\CSS Presentation\1. Lorem Ipsum page\bin\_1.Lorem_Ipsum_page.dll
+c:\users\admin\documents\visual studio 2013\Projects\CSS Presentation\1. Lorem Ipsum page\bin\_1.Lorem_Ipsum_page.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSS Presentation\1. Lorem Ipsum page\obj\Debug\1. Lorem Ipsum page.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSS Presentation\1. Lorem Ipsum page\obj\Debug\_1.Lorem_Ipsum_page.dll
+c:\users\admin\documents\visual studio 2013\Projects\CSS Presentation\1. Lorem Ipsum page\obj\Debug\_1.Lorem_Ipsum_page.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Presentation\1. Lorem Ipsum page\bin\_1.Lorem_Ipsum_page.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Presentation\1. Lorem Ipsum page\bin\_1.Lorem_Ipsum_page.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Presentation\1. Lorem Ipsum page\bin\_1.Lorem_Ipsum_page.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Presentation\1. Lorem Ipsum page\obj\Debug\1. Lorem Ipsum page.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Presentation\1. Lorem Ipsum page\obj\Debug\_1.Lorem_Ipsum_page.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Presentation\1. Lorem Ipsum page\obj\Debug\_1.Lorem_Ipsum_page.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\02. CSS Presentation\1. Lorem Ipsum page\bin\_1.Lorem_Ipsum_page.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\02. CSS Presentation\1. Lorem Ipsum page\bin\_1.Lorem_Ipsum_page.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\02. CSS Presentation\1. Lorem Ipsum page\bin\_1.Lorem_Ipsum_page.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\02. CSS Presentation\1. Lorem Ipsum page\obj\Debug\1. Lorem Ipsum page.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\02. CSS Presentation\1. Lorem Ipsum page\obj\Debug\_1.Lorem_Ipsum_page.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\02. CSS Presentation\1. Lorem Ipsum page\obj\Debug\_1.Lorem_Ipsum_page.pdb

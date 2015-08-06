@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\01. Decimal to binary\obj\Debug\01. Decimal to binary.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\01. Decimal to binary\obj\Debug\_01.Decimal_to_binary.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\01. Decimal to binary\obj\Debug\_01.Decimal_to_binary.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 04 Numeral Systems\01. Decimal to binary\bin\Debug\_01.Decimal_to_binary.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 04 Numeral Systems\01. Decimal to binary\obj\Debug\_01.Decimal_to_binary.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 04 Numeral Systems\01. Decimal to binary\obj\Debug\_01.Decimal_to_binary.pdb

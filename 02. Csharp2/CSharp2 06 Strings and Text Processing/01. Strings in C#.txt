@@ -1,0 +1,14 @@
+Strings
+
+A string is a sequene of characters.
+Strings are immutable and they are stored in the dynamic memory.
+
+
+String methods
+
+Indexof - returns the index of a given element inside the string
+Compare - compares 2 strings
+Split - splits a string, by given some separators
+Join - makes an given array's elements be joined a string, with a given separator
+ToLower(), ToUpper() - minimizes,capitalizes.
+Trim - removes white spaces or a set of of chars around the string;

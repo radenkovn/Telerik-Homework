@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\03. CSS Layout\6. News site\bin\_6.News_site.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\03. CSS Layout\6. News site\bin\_6.News_site.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\03. CSS Layout\6. News site\bin\_6.News_site.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\03. CSS Layout\6. News site\obj\Debug\_6.News_site.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\03. CSS Layout\6. News site\obj\Debug\_6.News_site.pdb

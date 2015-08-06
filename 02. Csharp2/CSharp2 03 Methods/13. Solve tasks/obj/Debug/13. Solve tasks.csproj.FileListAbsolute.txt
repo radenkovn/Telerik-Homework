@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\13. Solve tasks\bin\Debug\_13.Solve_tasks.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\13. Solve tasks\bin\Debug\_13.Solve_tasks.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\13. Solve tasks\bin\Debug\_13.Solve_tasks.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\13. Solve tasks\obj\Debug\13. Solve tasks.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\13. Solve tasks\obj\Debug\_13.Solve_tasks.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\13. Solve tasks\obj\Debug\_13.Solve_tasks.pdb

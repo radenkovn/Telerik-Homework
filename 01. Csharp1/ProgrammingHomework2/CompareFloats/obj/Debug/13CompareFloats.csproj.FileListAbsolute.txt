@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\CompareFloats\bin\Debug\CompareFloats.exe.config
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\CompareFloats\obj\Debug\CompareFloats.exe
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\CompareFloats\obj\Debug\CompareFloats.pdb

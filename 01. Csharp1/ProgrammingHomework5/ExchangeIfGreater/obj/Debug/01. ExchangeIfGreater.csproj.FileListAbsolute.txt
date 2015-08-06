@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.pdb

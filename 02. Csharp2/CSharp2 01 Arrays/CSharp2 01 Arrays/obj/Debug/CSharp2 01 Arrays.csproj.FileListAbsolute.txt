@@ -1,0 +1,1 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\CSharp2 01 Arrays\bin\Debug\CSharp2 01 Arrays.exe.config

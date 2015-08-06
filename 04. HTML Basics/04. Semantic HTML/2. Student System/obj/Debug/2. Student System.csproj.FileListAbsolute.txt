@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\04. Semantic HTML\2. Student System\bin\_2.Student_System.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\04. Semantic HTML\2. Student System\bin\_2.Student_System.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\04. Semantic HTML\2. Student System\bin\_2.Student_System.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\04. Semantic HTML\2. Student System\obj\Debug\2. Student System.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\04. Semantic HTML\2. Student System\obj\Debug\_2.Student_System.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\04. Semantic HTML\2. Student System\obj\Debug\_2.Student_System.pdb

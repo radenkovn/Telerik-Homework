@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\09. Matrix of Numbers\bin\Debug\_09.Matrix_of_Numbers.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\09. Matrix of Numbers\bin\Debug\_09.Matrix_of_Numbers.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\09. Matrix of Numbers\bin\Debug\_09.Matrix_of_Numbers.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\09. Matrix of Numbers\obj\Debug\_09.Matrix_of_Numbers.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\09. Matrix of Numbers\obj\Debug\_09.Matrix_of_Numbers.pdb

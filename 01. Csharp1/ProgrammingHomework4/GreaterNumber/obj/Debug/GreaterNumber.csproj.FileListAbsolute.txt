@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\GreaterNumber\bin\Debug\GreaterNumber.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\GreaterNumber\bin\Debug\GreaterNumber.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\GreaterNumber\obj\Debug\GreaterNumber.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\GreaterNumber\obj\Debug\GreaterNumber.pdb

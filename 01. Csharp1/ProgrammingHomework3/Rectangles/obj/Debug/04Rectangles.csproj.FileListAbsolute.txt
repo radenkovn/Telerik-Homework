@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\Rectangles\obj\Debug\Rectangles.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\Rectangles\obj\Debug\Rectangles.pdb

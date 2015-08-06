@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\16. Date Difference\bin\Debug\_16.Date_Difference.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\16. Date Difference\bin\Debug\_16.Date_Difference.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\16. Date Difference\bin\Debug\_16.Date_Difference.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\16. Date Difference\obj\Debug\_16.Date_Difference.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\16. Date Difference\obj\Debug\_16.Date_Difference.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\Csharp2\CSharp2 06 Strings and Text Processing\16. Date Difference\bin\Debug\_16.Date_Difference.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\Csharp2\CSharp2 06 Strings and Text Processing\16. Date Difference\obj\Debug\_16.Date_Difference.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\Csharp2\CSharp2 06 Strings and Text Processing\16. Date Difference\obj\Debug\_16.Date_Difference.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 06 Strings and Text Processing\16. Date Difference\bin\Debug\_16.Date_Difference.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 06 Strings and Text Processing\16. Date Difference\obj\Debug\_16.Date_Difference.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 06 Strings and Text Processing\16. Date Difference\obj\Debug\_16.Date_Difference.pdb

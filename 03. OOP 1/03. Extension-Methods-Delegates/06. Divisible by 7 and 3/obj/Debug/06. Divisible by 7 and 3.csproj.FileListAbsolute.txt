@@ -1,0 +1,1 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\03. Extension-Methods-Delegates\06. Divisible by 7 and 3\bin\Debug\_06.Divisible_by_7_and_3.exe.config

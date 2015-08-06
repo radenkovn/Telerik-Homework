@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

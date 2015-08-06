@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\BitExchangeAdvanced\bin\Debug\BitExchangeAdvanced.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\BitExchangeAdvanced\bin\Debug\BitExchangeAdvanced.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\BitExchangeAdvanced\bin\Debug\BitExchangeAdvanced.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\BitExchangeAdvanced\obj\Debug\BitExchangeAdvanced.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\BitExchangeAdvanced\obj\Debug\BitExchangeAdvanced.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\BitExchangeAdvanced\obj\Debug\BitExchangeAdvanced.pdb

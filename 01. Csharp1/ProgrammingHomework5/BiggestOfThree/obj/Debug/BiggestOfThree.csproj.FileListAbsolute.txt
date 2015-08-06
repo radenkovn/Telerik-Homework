@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\BiggestOfThree\bin\Debug\BiggestOfThree.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\BiggestOfThree\bin\Debug\BiggestOfThree.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\BiggestOfThree\bin\Debug\BiggestOfThree.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\BiggestOfThree\obj\Debug\BiggestOfThree.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\BiggestOfThree\obj\Debug\BiggestOfThree.pdb

@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\ModifyBitPosition\bin\Debug\ModifyBitPosition.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\ModifyBitPosition\bin\Debug\ModifyBitPosition.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\ModifyBitPosition\bin\Debug\ModifyBitPosition.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\ModifyBitPosition\obj\Debug\ModifyBitPosition.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\ModifyBitPosition\obj\Debug\ModifyBitPosition.pdb

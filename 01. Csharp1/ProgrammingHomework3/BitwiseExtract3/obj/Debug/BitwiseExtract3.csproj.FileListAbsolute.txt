@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\BitwiseExtract3\bin\Debug\BitwiseExtract3.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\BitwiseExtract3\bin\Debug\BitwiseExtract3.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\BitwiseExtract3\bin\Debug\BitwiseExtract3.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\BitwiseExtract3\obj\Debug\BitwiseExtract3.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\BitwiseExtract3\obj\Debug\BitwiseExtract3.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\BitwiseExtract3\obj\Debug\BitwiseExtract3.pdb

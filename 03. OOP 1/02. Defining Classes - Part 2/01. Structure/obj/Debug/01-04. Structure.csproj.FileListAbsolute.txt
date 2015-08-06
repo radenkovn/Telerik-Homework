@@ -1,0 +1,9 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\OOP 1\02. Defining Classes - Part 2\01. Structure\bin\Debug\_01.Structure.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\OOP 1\02. Defining Classes - Part 2\01. Structure\bin\Debug\_01.Structure.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\OOP 1\02. Defining Classes - Part 2\01. Structure\bin\Debug\_01.Structure.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\OOP 1\02. Defining Classes - Part 2\01. Structure\obj\Debug\01-04. Structure.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\OOP 1\02. Defining Classes - Part 2\01. Structure\obj\Debug\_01.Structure.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\OOP 1\02. Defining Classes - Part 2\01. Structure\obj\Debug\_01.Structure.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\02. Defining Classes - Part 2\01. Structure\bin\Debug\_01.Structure.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\02. Defining Classes - Part 2\01. Structure\obj\Debug\_01.Structure.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\02. Defining Classes - Part 2\01. Structure\obj\Debug\_01.Structure.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Csharp2 05 Classes and Objects\06. Sum Integers\bin\Debug\_06.Sum_Integers.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Csharp2 05 Classes and Objects\06. Sum Integers\bin\Debug\_06.Sum_Integers.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Csharp2 05 Classes and Objects\06. Sum Integers\bin\Debug\_06.Sum_Integers.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Csharp2 05 Classes and Objects\06. Sum Integers\obj\Debug\_06.Sum_Integers.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Csharp2 05 Classes and Objects\06. Sum Integers\obj\Debug\_06.Sum_Integers.pdb

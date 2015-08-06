@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\03. English Word\bin\Debug\_03.English_Word.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\03. English Word\bin\Debug\_03.English_Word.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\03. English Word\bin\Debug\_03.English_Word.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\03. English Word\obj\Debug\_03.English_Word.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\03. English Word\obj\Debug\_03.English_Word.pdb

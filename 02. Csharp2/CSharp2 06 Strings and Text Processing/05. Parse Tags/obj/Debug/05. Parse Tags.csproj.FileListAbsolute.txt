@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\05. Parse Tags\bin\Debug\_05.Parse_Tags.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\05. Parse Tags\bin\Debug\_05.Parse_Tags.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\05. Parse Tags\bin\Debug\_05.Parse_Tags.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\05. Parse Tags\obj\Debug\_05.Parse_Tags.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\05. Parse Tags\obj\Debug\_05.Parse_Tags.pdb

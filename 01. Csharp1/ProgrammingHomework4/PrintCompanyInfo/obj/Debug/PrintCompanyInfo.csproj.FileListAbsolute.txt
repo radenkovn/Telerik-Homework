@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\PrintCompanyInfo\bin\Debug\PrintCompanyInfo.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\PrintCompanyInfo\bin\Debug\PrintCompanyInfo.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\PrintCompanyInfo\bin\Debug\PrintCompanyInfo.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\PrintCompanyInfo\obj\Debug\PrintCompanyInfo.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\PrintCompanyInfo\obj\Debug\PrintCompanyInfo.pdb

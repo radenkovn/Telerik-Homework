@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\FourDigitNumber\obj\Debug\FourDigitNumber.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\FourDigitNumber\bin\Debug\FourDigitNumber.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\FourDigitNumber\obj\Debug\FourDigitNumber.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\FourDigitNumber\obj\Debug\FourDigitNumber.pdb

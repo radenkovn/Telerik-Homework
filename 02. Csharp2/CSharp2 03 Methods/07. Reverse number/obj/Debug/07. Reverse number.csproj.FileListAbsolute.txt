@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\07. Reverse number\bin\Debug\_07.Reverse_number.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\07. Reverse number\bin\Debug\_07.Reverse_number.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\07. Reverse number\bin\Debug\_07.Reverse_number.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\07. Reverse number\obj\Debug\_07.Reverse_number.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\07. Reverse number\obj\Debug\_07.Reverse_number.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\07. Reverse number\obj\Debug\07. Reverse number.csprojResolveAssemblyReference.cache

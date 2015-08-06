@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

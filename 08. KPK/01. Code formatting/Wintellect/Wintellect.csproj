@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CBDCA50B-A0DD-4E8B-B261-FD7D4EBDC2DF}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Wintellect</RootNamespace>
+    <AssemblyName>Wintellect</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="nunit.framework, Version=2.6.4.14350, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Wintellect\PowerCollections\Algorithms.cs" />
+    <Compile Include="Wintellect\PowerCollections\AssemblyInfo.cs" />
+    <Compile Include="Wintellect\PowerCollections\Bag.cs" />
+    <Compile Include="Wintellect\PowerCollections\BigList.cs" />
+    <Compile Include="Wintellect\PowerCollections\CollectionBase.cs" />
+    <Compile Include="Wintellect\PowerCollections\Comparers.cs" />
+    <Compile Include="Wintellect\PowerCollections\Deque.cs" />
+    <Compile Include="Wintellect\PowerCollections\DictionaryBase.cs" />
+    <Compile Include="Wintellect\PowerCollections\Hash.cs" />
+    <Compile Include="Wintellect\PowerCollections\ListBase.cs" />
+    <Compile Include="Wintellect\PowerCollections\MultiDictionary.cs" />
+    <Compile Include="Wintellect\PowerCollections\MultiDictionaryBase.cs" />
+    <Compile Include="Wintellect\PowerCollections\OrderedBag.cs" />
+    <Compile Include="Wintellect\PowerCollections\OrderedDictionary.cs" />
+    <Compile Include="Wintellect\PowerCollections\OrderedMultiDictionary.cs" />
+    <Compile Include="Wintellect\PowerCollections\OrderedSet.cs" />
+    <Compile Include="Wintellect\PowerCollections\Pair.cs" />
+    <Compile Include="Wintellect\PowerCollections\ReadOnlyCollectionBase.cs" />
+    <Compile Include="Wintellect\PowerCollections\ReadOnlyDictionaryBase.cs" />
+    <Compile Include="Wintellect\PowerCollections\ReadOnlyListBase.cs" />
+    <Compile Include="Wintellect\PowerCollections\ReadOnlyMultiDictionaryBase.cs" />
+    <Compile Include="Wintellect\PowerCollections\RedBlack.cs" />
+    <Compile Include="Wintellect\PowerCollections\Set.cs" />
+    <Compile Include="Wintellect\PowerCollections\Strings.cs" />
+    <Compile Include="Wintellect\PowerCollections\Triple.cs" />
+    <Compile Include="Wintellect\PowerCollections\Util.cs" />
+    <Compile Include="Wintellect\UnitTests\AlgorithmsTests.cs" />
+    <Compile Include="Wintellect\UnitTests\AssemblyInfo.cs" />
+    <Compile Include="Wintellect\UnitTests\BagTests.cs" />
+    <Compile Include="Wintellect\UnitTests\BigListTests.cs" />
+    <Compile Include="Wintellect\UnitTests\CollectionBaseTests.cs" />
+    <Compile Include="Wintellect\UnitTests\ComparersTests.cs" />
+    <Compile Include="Wintellect\UnitTests\DequeTests.cs" />
+    <Compile Include="Wintellect\UnitTests\DictionaryBaseTests.cs" />
+    <Compile Include="Wintellect\UnitTests\HashTests.cs" />
+    <Compile Include="Wintellect\UnitTests\InterfaceTests.cs" />
+    <Compile Include="Wintellect\UnitTests\ListBaseTests.cs" />
+    <Compile Include="Wintellect\UnitTests\MainProgram.cs" />
+    <Compile Include="Wintellect\UnitTests\MultiDictionaryBaseTests.cs" />
+    <Compile Include="Wintellect\UnitTests\MultiDictionaryTests.cs" />
+    <Compile Include="Wintellect\UnitTests\OrderedBagTests.cs" />
+    <Compile Include="Wintellect\UnitTests\OrderedDictionaryTests.cs" />
+    <Compile Include="Wintellect\UnitTests\OrderedMultiDictionaryTests.cs" />
+    <Compile Include="Wintellect\UnitTests\OrderedSetTests.cs" />
+    <Compile Include="Wintellect\UnitTests\PairTests.cs" />
+    <Compile Include="Wintellect\UnitTests\RedBlackTests.cs" />
+    <Compile Include="Wintellect\UnitTests\SetTests.cs" />
+    <Compile Include="Wintellect\UnitTests\TripleTests.cs" />
+    <Compile Include="Wintellect\UnitTests\UtilTests.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="Wintellect\PowerCollections\app.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Wintellect\License.txt" />
+    <Content Include="Wintellect\PowerCollections.sln" />
+    <Content Include="Wintellect\PowerCollections\PowerCollections.csproj" />
+    <Content Include="Wintellect\UnitTests\UnitTests.csproj" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

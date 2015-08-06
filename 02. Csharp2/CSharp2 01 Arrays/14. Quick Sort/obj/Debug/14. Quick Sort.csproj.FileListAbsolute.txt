@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\14. Quick Sort\bin\Debug\_14.Quick_Sort.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\14. Quick Sort\obj\Debug\14. Quick Sort.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\14. Quick Sort\bin\Debug\_14.Quick_Sort.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\14. Quick Sort\bin\Debug\_14.Quick_Sort.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\14. Quick Sort\obj\Debug\_14.Quick_Sort.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\14. Quick Sort\obj\Debug\_14.Quick_Sort.pdb

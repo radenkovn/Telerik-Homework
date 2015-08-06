@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\05. CalculateFormula\bin\Debug\_05.CalculateFormula.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\05. CalculateFormula\bin\Debug\_05.CalculateFormula.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\05. CalculateFormula\bin\Debug\_05.CalculateFormula.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\05. CalculateFormula\obj\Debug\05. CalculateFormula.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\05. CalculateFormula\obj\Debug\_05.CalculateFormula.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\05. CalculateFormula\obj\Debug\_05.CalculateFormula.pdb

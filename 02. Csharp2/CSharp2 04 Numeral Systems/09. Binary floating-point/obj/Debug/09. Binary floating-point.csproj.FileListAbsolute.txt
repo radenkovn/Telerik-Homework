@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\09. Binary floating-point\bin\Debug\_09.Binary_floating_point.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\09. Binary floating-point\bin\Debug\_09.Binary_floating_point.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\09. Binary floating-point\bin\Debug\_09.Binary_floating_point.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\09. Binary floating-point\obj\Debug\09. Binary floating-point.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\09. Binary floating-point\obj\Debug\_09.Binary_floating_point.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\09. Binary floating-point\obj\Debug\_09.Binary_floating_point.pdb

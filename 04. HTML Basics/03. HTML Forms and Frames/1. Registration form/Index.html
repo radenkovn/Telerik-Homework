@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Registration Form</title>
+</head>
+<body>
+    <form name="RegForm">
+        <table border="1" cellspacing="0" style="border-collapse:collapse">
+            <colgroup>
+                <col width="150" />
+                <col width="300" />
+            </colgroup>
+            <tr>
+                <th><label for="lastNameBox">Last Name</label></th>
+                <td><input type="text" id="lastNameBox" style="width:280px" required="required"/> </td>
+            </tr>
+            <tr>
+                <th><label for="firstNameBox">First Name</label></th>
+                <td><input type="text" id="firstNameBox" style="width:280px" required="required"/> </td>
+            </tr>
+            <tr>
+                <th><label for="AddressArea">Address</label></th>
+                <td><textarea id="AddressArea" style="width:270px"></textarea> </td>
+            </tr>
+            <tr>
+                <th><label for="cityBox">City</label></th>
+                <td>
+                    <input type="text" id="cityBox" style="width:194px" />
+                    <label for="stateBox">State</label>
+                    <input type="text" id="stateBox" style="width:50px" />
+                </td>
+            </tr>
+            <tr>
+                <th><label for="zipBox">Zip/Postal Code</label></th>
+                <td><input type="text" id="zipBox" style="width:80px" /> </td>
+            </tr>
+            <tr>
+                <th><label for="countrySelect   ">Country</label></th>
+                <td>
+                    <select id="countrySelect" style="width:190px">
+                        <option>Bulgaria</option>
+                        <option>China</option>
+                        <option>Greece</option>
+                        <option>Uruguay</option>
+                        <option>Macedonia</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th><label for="initialPhone">Phone(country code, area code, number)</label></th>
+                <td>
+                    (+
+                    <input type="text" id="initialPhone" style="width:60px" />
+                    )&nbsp;
+                    <input type="text" style="width:40px" />&nbsp;
+                    <input type="text" style="width:110px" />
+                </td>
+            </tr>
+            <tr>
+                <th><label for="emailBox">E-mail</label></th>
+                <td><input type="text" id="emailBox" style="width:280px" /> </td>
+            </tr>
+            <tr>
+                <th><label for="dateBox">Birth Date</label></th>
+                <td><input type="date" id="dateBox" style="width:200px" value="дд.мм.гггг г." /> </td>
+            </tr>
+            <tr>
+                <th><label for="genderSelect">Gender</label></th>
+                <td>
+                    <select id="genderSelect" style="width:80px">
+                        <option>Male</option>
+                        <option>Female</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <th><label>Starting Date</label></th>
+                <td>
+                    <input type="radio" id="springRadio" name="datesRadio" required="required"/><label for="springRadio">Spring 2015</label>
+                    <input type="radio" id="summerRadio" name="datesRadio" required="required"/><label for="summerRadio">Summer 2015</label>
+                </td>
+            </tr>
+            <tr>
+                <th><label for="commentsArea">Comments/Questions</label></th>
+                <td><textarea id="commentsArea" style="width:270px; height:80px"></textarea> </td>
+            </tr>
+            <tr>
+                <td colspan="2"style="background-color:lightblue" align="center">
+                    <button>Submit</button>
+                    <input type="reset" value="Clean This Form"/>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

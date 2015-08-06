@@ -1,0 +1,1 @@
+C:\Users\Admin\documents\visual studio 2013\Projects\CSharp2 07 Exception Handling\03. Read file contents\bin\Debug\_03.Read_file_contents.exe.config

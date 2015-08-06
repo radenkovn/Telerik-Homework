@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\InsideOutside\bin\Debug\InsideOutside.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\InsideOutside\obj\Debug\InsideOutside.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\InsideOutside\obj\Debug\InsideOutside.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\InsideOutside\bin\Debug\InsideOutside.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\InsideOutside\bin\Debug\InsideOutside.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\InsideOutside\bin\Debug\InsideOutside.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\InsideOutside\obj\Debug\InsideOutside.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\InsideOutside\obj\Debug\InsideOutside.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework2\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework2\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework2\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

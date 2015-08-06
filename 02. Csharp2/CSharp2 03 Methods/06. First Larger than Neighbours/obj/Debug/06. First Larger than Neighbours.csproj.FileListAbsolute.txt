@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\06. First Larger than Neighbours\bin\Debug\_06.First_Larger_than_Neighbours.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\06. First Larger than Neighbours\obj\Debug\06. First Larger than Neighbours.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\06. First Larger than Neighbours\bin\Debug\_06.First_Larger_than_Neighbours.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\06. First Larger than Neighbours\bin\Debug\_06.First_Larger_than_Neighbours.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\06. First Larger than Neighbours\obj\Debug\_06.First_Larger_than_Neighbours.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\06. First Larger than Neighbours\obj\Debug\_06.First_Larger_than_Neighbours.pdb

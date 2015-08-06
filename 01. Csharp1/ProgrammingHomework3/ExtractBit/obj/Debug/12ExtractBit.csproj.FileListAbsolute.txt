@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\ExtractBit\bin\Debug\ExtractBit.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\ExtractBit\obj\Debug\ExtractBit.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\ExtractBit\obj\Debug\ExtractBit.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\ExtractBit\bin\Debug\ExtractBit.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\ExtractBit\obj\Debug\ExtractBit.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\ExtractBit\obj\Debug\ExtractBit.pdb

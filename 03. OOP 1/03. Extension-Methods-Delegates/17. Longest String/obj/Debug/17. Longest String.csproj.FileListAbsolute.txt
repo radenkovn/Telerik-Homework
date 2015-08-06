@@ -1,0 +1,1 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\03. Extension-Methods-Delegates\17. Longest String\bin\Debug\_17.Longest_String.exe.config

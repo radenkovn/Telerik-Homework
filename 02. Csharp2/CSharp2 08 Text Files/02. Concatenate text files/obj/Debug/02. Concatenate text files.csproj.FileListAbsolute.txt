@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\02. Concatenate text files\bin\Debug\_02.Concatenate_text_files.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\Csharp2\CSharp2 08 Text Files\02. Concatenate text files\bin\Debug\_02.Concatenate_text_files.exe.config

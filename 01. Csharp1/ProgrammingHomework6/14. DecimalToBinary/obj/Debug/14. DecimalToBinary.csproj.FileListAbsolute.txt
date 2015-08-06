@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\14. DecimalToBinary\bin\Debug\_14.DecimalToBinary.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\14. DecimalToBinary\bin\Debug\_14.DecimalToBinary.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\14. DecimalToBinary\bin\Debug\_14.DecimalToBinary.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\14. DecimalToBinary\obj\Debug\_14.DecimalToBinary.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\14. DecimalToBinary\obj\Debug\_14.DecimalToBinary.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\19. Dates from text in Canada\bin\Debug\_19.Dates_from_text_in_Canada.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\19. Dates from text in Canada\bin\Debug\_19.Dates_from_text_in_Canada.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\19. Dates from text in Canada\bin\Debug\_19.Dates_from_text_in_Canada.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\19. Dates from text in Canada\obj\Debug\_19.Dates_from_text_in_Canada.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\19. Dates from text in Canada\obj\Debug\_19.Dates_from_text_in_Canada.pdb

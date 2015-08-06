@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\CheckBitPosition\bin\Debug\CheckBitPosition.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\CheckBitPosition\bin\Debug\CheckBitPosition.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\CheckBitPosition\bin\Debug\CheckBitPosition.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\CheckBitPosition\obj\Debug\CheckBitPosition.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\CheckBitPosition\obj\Debug\CheckBitPosition.pdb
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework3\CheckBitPosition\obj\Debug\CheckBitPosition.csprojResolveAssemblyReference.cache

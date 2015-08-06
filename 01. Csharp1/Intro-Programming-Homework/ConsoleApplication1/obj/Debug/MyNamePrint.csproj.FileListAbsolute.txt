@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\ConsoleApplication1\obj\Debug\MyNamePrint.csprojResolveAssemblyReference.cache

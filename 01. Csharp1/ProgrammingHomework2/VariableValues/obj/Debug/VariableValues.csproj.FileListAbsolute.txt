@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\VariableValues\bin\Debug\VariableValues.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\VariableValues\bin\Debug\VariableValues.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\VariableValues\bin\Debug\VariableValues.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\VariableValues\obj\Debug\VariableValues.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\VariableValues\obj\Debug\VariableValues.pdb

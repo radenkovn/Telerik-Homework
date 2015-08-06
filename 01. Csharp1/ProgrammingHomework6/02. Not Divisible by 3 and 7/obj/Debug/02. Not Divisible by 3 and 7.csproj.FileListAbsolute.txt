@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\02. Not Divisible by 3 and 7\bin\Debug\_02.Not_Divisible_by_3_and_7.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\02. Not Divisible by 3 and 7\bin\Debug\_02.Not_Divisible_by_3_and_7.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\02. Not Divisible by 3 and 7\bin\Debug\_02.Not_Divisible_by_3_and_7.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\02. Not Divisible by 3 and 7\obj\Debug\_02.Not_Divisible_by_3_and_7.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\02. Not Divisible by 3 and 7\obj\Debug\_02.Not_Divisible_by_3_and_7.pdb

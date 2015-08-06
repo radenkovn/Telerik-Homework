@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\1. HTML Tables\bin\_1.HTML_Tables.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\1. HTML Tables\bin\_1.HTML_Tables.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\1. HTML Tables\bin\_1.HTML_Tables.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\1. HTML Tables\obj\Debug\1. HTML Tables.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\1. HTML Tables\obj\Debug\_1.HTML_Tables.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\1. HTML Tables\obj\Debug\_1.HTML_Tables.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\03. Line numbers\bin\Debug\_03.Line_numbers.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\03. Line numbers\bin\Debug\_03.Line_numbers.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\03. Line numbers\bin\Debug\_03.Line_numbers.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\03. Line numbers\obj\Debug\_03.Line_numbers.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\03. Line numbers\obj\Debug\_03.Line_numbers.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\Csharp2\CSharp2 08 Text Files\03. Line numbers\bin\Debug\_03.Line_numbers.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\Csharp2\CSharp2 08 Text Files\03. Line numbers\obj\Debug\_03.Line_numbers.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\Csharp2\CSharp2 08 Text Files\03. Line numbers\obj\Debug\_03.Line_numbers.pdb

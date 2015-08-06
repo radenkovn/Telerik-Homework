@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\07. Calculate N!K 2\bin\Debug\_07.Calculate_N_K_2.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\07. Calculate N!K 2\bin\Debug\_07.Calculate_N_K_2.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\07. Calculate N!K 2\bin\Debug\_07.Calculate_N_K_2.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\07. Calculate N!K 2\obj\Debug\07. Calculate N!K 2.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\07. Calculate N!K 2\obj\Debug\_07.Calculate_N_K_2.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\07. Calculate N!K 2\obj\Debug\_07.Calculate_N_K_2.pdb

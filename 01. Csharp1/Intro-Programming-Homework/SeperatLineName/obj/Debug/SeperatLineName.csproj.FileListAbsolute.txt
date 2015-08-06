@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SeperatLineName\bin\Debug\SeperatLineName.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SeperatLineName\bin\Debug\SeperatLineName.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SeperatLineName\bin\Debug\SeperatLineName.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SeperatLineName\obj\Debug\SeperatLineName.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SeperatLineName\obj\Debug\SeperatLineName.pdb

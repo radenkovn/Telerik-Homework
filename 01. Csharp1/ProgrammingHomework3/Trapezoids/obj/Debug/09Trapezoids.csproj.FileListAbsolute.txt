@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\Trapezoids\obj\Debug\Trapezoids.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\Trapezoids\bin\Debug\Trapezoids.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\Trapezoids\obj\Debug\Trapezoids.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\Trapezoids\obj\Debug\Trapezoids.pdb

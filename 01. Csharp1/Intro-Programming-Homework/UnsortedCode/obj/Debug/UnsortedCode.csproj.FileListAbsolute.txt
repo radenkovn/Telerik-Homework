@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\UnsortedCode\bin\Debug\UnsortedCode.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\UnsortedCode\bin\Debug\UnsortedCode.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\UnsortedCode\bin\Debug\UnsortedCode.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\UnsortedCode\obj\Debug\UnsortedCode.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\UnsortedCode\obj\Debug\UnsortedCode.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\UnsortedCode\obj\Debug\UnsortedCode.pdb

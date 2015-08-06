@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\18. Trailing Zeroes in N\bin\Debug\_18.Trailing_Zeroes_in_N.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\18. Trailing Zeroes in N\bin\Debug\_18.Trailing_Zeroes_in_N.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\18. Trailing Zeroes in N\bin\Debug\_18.Trailing_Zeroes_in_N.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\18. Trailing Zeroes in N\obj\Debug\_18.Trailing_Zeroes_in_N.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\18. Trailing Zeroes in N\obj\Debug\_18.Trailing_Zeroes_in_N.pdb

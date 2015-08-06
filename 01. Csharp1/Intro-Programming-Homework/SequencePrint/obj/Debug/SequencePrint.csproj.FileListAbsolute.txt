@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SequencePrint\bin\Debug\SequencePrint.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SequencePrint\bin\Debug\SequencePrint.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SequencePrint\bin\Debug\SequencePrint.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SequencePrint\obj\Debug\SequencePrint.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SequencePrint\obj\Debug\SequencePrint.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\SequencePrint\obj\Debug\SequencePrint.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Overview\2. International Employees\bin\_2.International_Employees.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Overview\2. International Employees\bin\_2.International_Employees.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Overview\2. International Employees\bin\_2.International_Employees.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Overview\2. International Employees\obj\Debug\2. International Employees.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Overview\2. International Employees\obj\Debug\_2.International_Employees.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Overview\2. International Employees\obj\Debug\_2.International_Employees.pdb

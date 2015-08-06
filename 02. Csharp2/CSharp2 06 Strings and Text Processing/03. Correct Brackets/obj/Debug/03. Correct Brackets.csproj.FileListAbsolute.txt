@@ -1,0 +1,1 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\03. Correct Brackets\bin\Debug\_03.Correct_Brackets.exe.config

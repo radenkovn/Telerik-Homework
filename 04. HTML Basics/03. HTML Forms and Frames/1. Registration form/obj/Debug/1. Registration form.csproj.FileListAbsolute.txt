@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\03. HTML Forms and Frames\1. Registration form\bin\_1.Registration_form.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\03. HTML Forms and Frames\1. Registration form\bin\_1.Registration_form.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\03. HTML Forms and Frames\1. Registration form\bin\_1.Registration_form.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\03. HTML Forms and Frames\1. Registration form\obj\Debug\1. Registration form.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\03. HTML Forms and Frames\1. Registration form\obj\Debug\_1.Registration_form.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\03. HTML Forms and Frames\1. Registration form\obj\Debug\_1.Registration_form.pdb

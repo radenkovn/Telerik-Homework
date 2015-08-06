@@ -1,0 +1,122 @@
+﻿body {
+    background-color: #F1F1F1;
+    font-family: Arial;
+    font-size: 16px;
+}
+
+nav {
+    position: absolute;
+}
+
+    nav > div > a {
+        text-decoration: none;
+        font-family: Arial;
+        font-size: 16px;
+        color: black;
+    }
+
+    nav > div > img {
+        vertical-align: middle;
+    }
+
+    nav ul {
+        font-size: 16px;
+        font-family: Arial;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    nav h3 {
+        display: inline-block;
+        font-size: 16px;
+        font-weight: bold;
+        line-height: 18px;
+        font-family: Arial;
+        color: #9D3533;
+        margin: 0;
+        margin-top: 15px;
+    }
+
+main {
+    position: absolute;
+    left: 200px;
+    width: 580px;
+    border: 1px solid #A2A2A2;
+    padding: 5px;
+    background-color: white;
+}
+
+    main div {
+        padding: 15px;
+    }
+
+    main .important {
+        font-weight: bold;
+    }
+
+        main .important img {
+            vertical-align: middle;
+        }
+
+        main .important div {
+            width: 450px;
+            position: absolute;
+            top: 145px;
+            left: 116px;
+        }
+
+        main .important a {
+            position: relative;
+            left: 112px;
+        }
+
+    main a {
+        display: block;
+        font-weight: normal;
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+
+aside {
+    position: absolute;
+    top: 5px;
+    right: 900px;
+    width: 180px;
+    background: white;
+    text-align: center;
+}
+
+    aside a {
+        display: block;
+        font-family: Arial;
+        font-size: 14px;
+        line-height: 15px;
+    }
+
+    aside div {
+        border: 1px solid #9E9E9E;
+        margin: 3px;
+        padding: 3px;
+    }
+
+    aside input {
+        width:80px;
+    }
+
+hr {
+    color: #B0B0B0;
+}
+
+h2 {
+    font-size: 18px;
+    font-family: Arial;
+    color: white;
+    background-color: #808080;
+    padding-left: 5px;
+    margin: 0;
+}
+
+a {
+    color: #8F110D;
+}

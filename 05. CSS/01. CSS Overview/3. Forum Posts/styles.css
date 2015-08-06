@@ -1,0 +1,105 @@
+﻿body {
+    background-color: #A9A9A9;
+}
+
+    body > header > h1 {
+        color: #F9FAD3;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: bold;
+        font-size: 45px;
+        line-height: 55px;
+        font-family: 'Times New Roman';
+        text-align: center;
+    }
+
+ul li {
+    list-style: none;
+}
+
+li {
+    text-align: center;
+}
+
+    li a {
+        color: #FFFFFF;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: bold;
+        font-size: 25px;
+        line-height: 27px;
+        font-family: 'Times New Roman';
+        text-decoration: none;
+    }
+
+        li a:hover {
+            text-decoration: underline;
+        }
+
+.current {
+    background-color: #D3D3D3;
+}
+
+section article header h1 {
+    color: #F9FAD3;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 45px;
+    font-family: 'Times New Roman';
+}
+
+section article p {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 27px;
+    font-family: 'Times New Roman';
+    max-width: 95%;
+    height: 27px;
+    overflow: hidden;
+    text-overflow: clip;
+    white-space: pre-wrap;
+}
+
+section article footer p {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 18px;
+    font-family: 'Times New Roman';
+}
+
+section > article > footer > p > a {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 18px;
+    font-family: 'Times New Roman';
+    text-decoration: none;
+    visibility: hidden;
+}
+
+    section > article > footer > p > a:before {
+
+        content: "Doncho Minkov";
+        visibility: visible;
+    }
+
+body > footer {
+    color: black;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 18px;
+    font-family: 'Times New Roman';
+    text-align: center;
+}

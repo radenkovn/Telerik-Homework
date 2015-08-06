@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\BooleanVariable\bin\Debug\BooleanVariable.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\BooleanVariable\bin\Debug\BooleanVariable.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\BooleanVariable\obj\Debug\BooleanVariable.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\BooleanVariable\obj\Debug\BooleanVariable.pdb

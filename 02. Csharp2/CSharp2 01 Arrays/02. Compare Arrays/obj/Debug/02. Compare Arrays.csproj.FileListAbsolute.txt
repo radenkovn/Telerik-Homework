@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\02. Compare Arrays\bin\Debug\_02.Compare_Arrays.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\02. Compare Arrays\bin\Debug\_02.Compare_Arrays.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\02. Compare Arrays\bin\Debug\_02.Compare_Arrays.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\02. Compare Arrays\obj\Debug\_02.Compare_Arrays.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\02. Compare Arrays\obj\Debug\_02.Compare_Arrays.pdb

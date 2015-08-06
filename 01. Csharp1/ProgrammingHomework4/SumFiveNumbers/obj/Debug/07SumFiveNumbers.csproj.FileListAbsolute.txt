@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\SumFiveNumbers\bin\Debug\SumFiveNumbers.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\SumFiveNumbers\obj\Debug\SumFiveNumbers.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\SumFiveNumbers\obj\Debug\SumFiveNumbers.pdb

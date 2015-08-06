@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Overview\1. Ticket CSS\bin\_1.Ticket_CSS.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Overview\1. Ticket CSS\bin\_1.Ticket_CSS.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Overview\1. Ticket CSS\bin\_1.Ticket_CSS.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Overview\1. Ticket CSS\obj\Debug\1. Ticket CSS.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Overview\1. Ticket CSS\obj\Debug\_1.Ticket_CSS.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Overview\1. Ticket CSS\obj\Debug\_1.Ticket_CSS.pdb

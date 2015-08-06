@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\PlayCard\bin\Debug\PlayCard.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\PlayCard\obj\Debug\PlayCard.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\PlayCard\obj\Debug\PlayCard.pdb

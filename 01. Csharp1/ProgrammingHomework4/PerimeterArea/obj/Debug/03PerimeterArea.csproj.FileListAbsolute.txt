@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\PerimeterArea\bin\Debug\PerimeterArea.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\PerimeterArea\obj\Debug\PerimeterArea.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\PerimeterArea\obj\Debug\PerimeterArea.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\PerimeterArea\bin\Debug\PerimeterArea.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\PerimeterArea\bin\Debug\PerimeterArea.pdb

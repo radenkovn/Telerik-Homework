@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\Rectangles\bin\Debug\Rectangles.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\Rectangles\bin\Debug\Rectangles.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\Rectangles\bin\Debug\Rectangles.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\Rectangles\obj\Debug\Rectangles.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\Rectangles\obj\Debug\Rectangles.pdb

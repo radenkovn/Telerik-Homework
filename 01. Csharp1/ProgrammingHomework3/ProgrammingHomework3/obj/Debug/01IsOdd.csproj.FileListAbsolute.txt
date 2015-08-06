@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\ProgrammingHomework3\bin\Debug\ProgrammingHomework3.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\ProgrammingHomework3\obj\Debug\ProgrammingHomework3.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\ProgrammingHomework3\obj\Debug\ProgrammingHomework3.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\ProgrammingHomework3\bin\Debug\ProgrammingHomework3.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\ProgrammingHomework3\obj\Debug\ProgrammingHomework3.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\ProgrammingHomework3\obj\Debug\ProgrammingHomework3.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\03. Extension-Methods-Delegates\09. Student groups\bin\Debug\_09.Student_groups.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\03. Extension-Methods-Delegates\09. Student groups\bin\Debug\_09.Student_groups.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\03. Extension-Methods-Delegates\09. Student groups\bin\Debug\_09.Student_groups.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\03. Extension-Methods-Delegates\09. Student groups\obj\Debug\09.-19 Student groups.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\03. Extension-Methods-Delegates\09. Student groups\obj\Debug\_09.Student_groups.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\03. Extension-Methods-Delegates\09. Student groups\obj\Debug\_09.Student_groups.pdb

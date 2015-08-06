@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\DivideBySevenFive\bin\Debug\DivideBySevenFive.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\DivideBySevenFive\obj\Debug\DivideBySevenFive.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\DivideBySevenFive\obj\Debug\DivideBySevenFive.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\DivideBySevenFive\bin\Debug\DivideBySevenFive.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\DivideBySevenFive\obj\Debug\DivideBySevenFive.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\DivideBySevenFive\obj\Debug\DivideBySevenFive.pdb

@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\15. Generic\bin\Debug\_15.Generic.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\15. Generic\bin\Debug\_15.Generic.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\15. Generic\bin\Debug\_15.Generic.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\15. Generic\obj\Debug\15. Generic.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\15. Generic\obj\Debug\_15.Generic.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\15. Generic\obj\Debug\_15.Generic.pdb

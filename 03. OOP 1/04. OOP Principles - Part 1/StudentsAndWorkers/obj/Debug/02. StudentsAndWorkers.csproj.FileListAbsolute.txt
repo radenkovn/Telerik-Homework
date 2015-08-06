@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\04. OOP Principles - Part 1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\04. OOP Principles - Part 1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\04. OOP Principles - Part 1\StudentsAndWorkers\bin\Debug\StudentsAndWorkers.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\04. OOP Principles - Part 1\StudentsAndWorkers\obj\Debug\02. StudentsAndWorkers.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\04. OOP Principles - Part 1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\04. OOP Principles - Part 1\StudentsAndWorkers\obj\Debug\StudentsAndWorkers.pdb

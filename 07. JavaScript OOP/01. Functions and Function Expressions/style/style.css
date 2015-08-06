@@ -1,0 +1,42 @@
+body {
+    padding: 25px;
+    background-color: gray;
+    color: yellow;
+}
+a{
+    background-color: darksalmon;
+    padding:3px;
+    font-size:19px;
+    border:1px solid black;
+    text-decoration: none;
+    color:black;
+}
+img{
+    position: relative;
+    top:-560px;
+    left:600px;
+}
+nav{
+    text-align: center;
+}
+nav a{
+    display:inline-block;
+}
+input {
+    background-color: lightblue;
+    padding:3px;
+    font-size:19px;
+}
+div{
+    font-size:20px;
+}
+#output {
+    background-color: black;
+    color: yellow;
+    display: block;
+    height: 500px;
+    width: 500px;
+    margin: 20px;
+    padding: 20px;
+    font-size:17px;
+}

@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\BitwiseExtract3\bin\Debug\BitwiseExtract3.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\BitwiseExtract3\obj\Debug\BitwiseExtract3.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\BitwiseExtract3\obj\Debug\BitwiseExtract3.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\BitwiseExtract3\bin\Debug\BitwiseExtract3.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\BitwiseExtract3\obj\Debug\BitwiseExtract3.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\BitwiseExtract3\obj\Debug\BitwiseExtract3.pdb

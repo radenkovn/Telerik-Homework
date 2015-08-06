@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\PrimeNumber\bin\Debug\PrimeNumber.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\PrimeNumber\bin\Debug\PrimeNumber.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\PrimeNumber\obj\Debug\PrimeNumber.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\PrimeNumber\obj\Debug\PrimeNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\05. OOP Principles - Part 2\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\05. OOP Principles - Part 2\Shapes\bin\Debug\Shapes.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\05. OOP Principles - Part 2\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\05. OOP Principles - Part 2\Shapes\obj\Debug\Shapes.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\05. OOP Principles - Part 2\Shapes\obj\Debug\Shapes.pdb

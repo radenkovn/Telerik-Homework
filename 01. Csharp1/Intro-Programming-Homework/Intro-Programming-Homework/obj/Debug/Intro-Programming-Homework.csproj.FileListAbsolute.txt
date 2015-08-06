@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.exe
+c:\users\admin\documents\visual studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\bin\Debug\Intro-Programming-Homework.pdb
+c:\users\admin\documents\visual studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.exe
+c:\users\admin\documents\visual studio 2013\Projects\Intro-Programming-Homework\Intro-Programming-Homework\obj\Debug\Intro-Programming-Homework.pdb

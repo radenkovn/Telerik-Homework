@@ -1,0 +1,80 @@
+﻿body {
+    background-color: #213741;
+    color: #94A5B1;
+    padding: 0;
+    margin: 0;
+}
+
+div {
+    margin: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: #94A5B1;
+}
+
+nav li:hover a {
+    text-decoration: underline;
+}
+
+nav li {
+    display: inline;
+    background-color: #4D5F67;
+    padding: 10px;
+    margin: -1px;
+}
+
+nav .selected-li {
+    background-color: #213741;
+}
+
+    nav .selected-li a {
+        color: white;
+    }
+
+main .left-col {
+    width: 300px;
+}
+
+main h1 {
+    font-size: 16px;
+    background-color: #2C978D;
+    padding: 10px;
+    color: white;
+    margin: 0;
+}
+
+main div ul {
+    margin: 0;
+    padding: 0;
+}
+
+    main div ul div {
+        padding: 10px;
+        font-size: 15px;
+        font-weight: bold;
+        border: 1px solid #3C4F58;
+    }
+
+main .video-col {
+    position: relative;
+    top: -299px;
+    left: 300px;
+}
+
+    main .video-col video {
+        width: 480px;
+    }
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    main .video-col {
+        position: relative;
+        top: -279px;
+        left: 301px;
+    }
+}

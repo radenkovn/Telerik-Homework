@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\13. Count Words\bin\Debug\_13.Count_Words.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\13. Count Words\bin\Debug\_13.Count_Words.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\13. Count Words\bin\Debug\_13.Count_Words.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\13. Count Words\obj\Debug\13. Count Words.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\13. Count Words\obj\Debug\_13.Count_Words.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\13. Count Words\obj\Debug\_13.Count_Words.pdb

@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Layout\5. Laptop store\bin\_5.Laptop_store.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Layout\5. Laptop store\bin\_5.Laptop_store.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Layout\5. Laptop store\bin\_5.Laptop_store.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Layout\5. Laptop store\obj\Debug\5. Laptop store.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Layout\5. Laptop store\obj\Debug\_5.Laptop_store.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\CSS Layout\5. Laptop store\obj\Debug\_5.Laptop_store.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\03. CSS Layout\5. Laptop store\bin\_5.Laptop_store.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\03. CSS Layout\5. Laptop store\bin\_5.Laptop_store.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\03. CSS Layout\5. Laptop store\bin\_5.Laptop_store.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\03. CSS Layout\5. Laptop store\obj\Debug\5. Laptop store.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\03. CSS Layout\5. Laptop store\obj\Debug\_5.Laptop_store.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\03. CSS Layout\5. Laptop store\obj\Debug\_5.Laptop_store.pdb

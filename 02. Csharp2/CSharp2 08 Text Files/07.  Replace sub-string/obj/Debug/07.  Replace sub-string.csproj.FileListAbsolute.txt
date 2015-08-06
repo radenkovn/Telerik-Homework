@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\07.  Replace sub-string\bin\Debug\_07.Replace_sub_string.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\07.  Replace sub-string\bin\Debug\_07.Replace_sub_string.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\07.  Replace sub-string\bin\Debug\_07.Replace_sub_string.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\07.  Replace sub-string\obj\Debug\_07.Replace_sub_string.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\07.  Replace sub-string\obj\Debug\_07.Replace_sub_string.pdb

@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\QuotesInStrings\obj\Debug\QuotesInStrings.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework2\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework2\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework2\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\04. Deck of 52 Cards\bin\Debug\_04.Deck_of_52_Cards.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\04. Deck of 52 Cards\bin\Debug\_04.Deck_of_52_Cards.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\04. Deck of 52 Cards\bin\Debug\_04.Deck_of_52_Cards.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\04. Deck of 52 Cards\obj\Debug\_04.Deck_of_52_Cards.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\04. Deck of 52 Cards\obj\Debug\_04.Deck_of_52_Cards.pdb

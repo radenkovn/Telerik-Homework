@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\ThirdDigitSeven\bin\Debug\ThirdDigitSeven.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\ThirdDigitSeven\bin\Debug\ThirdDigitSeven.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\ThirdDigitSeven\bin\Debug\ThirdDigitSeven.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\ThirdDigitSeven\obj\Debug\ThirdDigitSeven.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework3\ThirdDigitSeven\obj\Debug\ThirdDigitSeven.pdb

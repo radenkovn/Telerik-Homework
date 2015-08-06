@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\02. Reverse string\bin\Debug\_02.Reverse_string.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\Csharp2\CSharp2 06 Strings and Text Processing\02. Reverse string\bin\Debug\_02.Reverse_string.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 06 Strings and Text Processing\02. Reverse string\bin\Debug\_02.Reverse_string.exe.config

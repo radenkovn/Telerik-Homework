@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\03. Decimal to hexadecimal\bin\Debug\_03.Decimal_to_hexadecimal.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\03. Decimal to hexadecimal\bin\Debug\_03.Decimal_to_hexadecimal.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\03. Decimal to hexadecimal\bin\Debug\_03.Decimal_to_hexadecimal.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\03. Decimal to hexadecimal\obj\Debug\_03.Decimal_to_hexadecimal.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\03. Decimal to hexadecimal\obj\Debug\_03.Decimal_to_hexadecimal.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 04 Numeral Systems\03. Decimal to hexadecimal\obj\Debug\03. Decimal to hexadecimal.csprojResolveAssemblyReference.cache

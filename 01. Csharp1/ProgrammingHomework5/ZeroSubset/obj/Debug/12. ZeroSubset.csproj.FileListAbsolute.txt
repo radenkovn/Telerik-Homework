@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\ZeroSubset\bin\Debug\ZeroSubset.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\ZeroSubset\bin\Debug\ZeroSubset.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\ZeroSubset\bin\Debug\ZeroSubset.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\ZeroSubset\obj\Debug\ZeroSubset.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\ZeroSubset\obj\Debug\ZeroSubset.pdb

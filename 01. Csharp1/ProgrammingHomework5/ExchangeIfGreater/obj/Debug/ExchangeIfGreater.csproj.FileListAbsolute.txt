@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.pdb

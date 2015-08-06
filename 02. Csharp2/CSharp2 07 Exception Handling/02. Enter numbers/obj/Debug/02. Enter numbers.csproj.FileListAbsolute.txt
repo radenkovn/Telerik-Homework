@@ -1,0 +1,5 @@
+C:\Users\Admin\documents\visual studio 2013\Projects\CSharp2 07 Exception Handling\02. Enter numbers\bin\Debug\_02.Enter_numbers.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 07 Exception Handling\02. Enter numbers\bin\Debug\_02.Enter_numbers.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 07 Exception Handling\02. Enter numbers\bin\Debug\_02.Enter_numbers.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 07 Exception Handling\02. Enter numbers\obj\Debug\_02.Enter_numbers.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 07 Exception Handling\02. Enter numbers\obj\Debug\_02.Enter_numbers.pdb

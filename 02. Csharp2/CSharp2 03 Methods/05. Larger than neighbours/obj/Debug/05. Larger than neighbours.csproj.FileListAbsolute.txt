@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\05. Larger than neighbours\bin\Debug\_05.Larger_than_neighbours.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\05. Larger than neighbours\bin\Debug\_05.Larger_than_neighbours.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\05. Larger than neighbours\bin\Debug\_05.Larger_than_neighbours.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\05. Larger than neighbours\obj\Debug\05. Larger than neighbours.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\05. Larger than neighbours\obj\Debug\_05.Larger_than_neighbours.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 03 Methods\05. Larger than neighbours\obj\Debug\_05.Larger_than_neighbours.pdb

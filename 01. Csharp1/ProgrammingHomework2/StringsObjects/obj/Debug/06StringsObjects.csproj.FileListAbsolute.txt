@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\StringsObjects\bin\Debug\StringsObjects.exe.config
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\StringsObjects\obj\Debug\StringsObjects.exe
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\StringsObjects\obj\Debug\StringsObjects.pdb

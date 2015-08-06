@@ -1,0 +1,1 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 06 Strings and Text Processing\07. Encode and decode\bin\Debug\_07.Encode_and_decode.exe.config

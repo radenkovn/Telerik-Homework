@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\01. Defining Classes\01. Define Class\bin\Debug\_01.Define_Class.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\01. Defining Classes\01. Define Class\bin\Debug\_01.Define_Class.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\01. Defining Classes\01. Define Class\bin\Debug\_01.Define_Class.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\01. Defining Classes\01. Define Class\obj\Debug\DefineClasses.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\01. Defining Classes\01. Define Class\obj\Debug\_01.Define_Class.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\01. Defining Classes\01. Define Class\obj\Debug\_01.Define_Class.pdb

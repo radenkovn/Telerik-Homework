@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\03. Extension-Methods-Delegates\02.IEnumerable extensions\bin\Debug\02.IEnumerable extensions.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\03. Extension-Methods-Delegates\02.IEnumerable extensions\bin\Debug\02.IEnumerable extensions.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\03. Extension-Methods-Delegates\02.IEnumerable extensions\bin\Debug\02.IEnumerable extensions.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\03. Extension-Methods-Delegates\02.IEnumerable extensions\obj\Debug\02.IEnumerable extensions.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\03. Extension-Methods-Delegates\02.IEnumerable extensions\obj\Debug\02.IEnumerable extensions.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\03. Extension-Methods-Delegates\02.IEnumerable extensions\obj\Debug\02.IEnumerable extensions.pdb

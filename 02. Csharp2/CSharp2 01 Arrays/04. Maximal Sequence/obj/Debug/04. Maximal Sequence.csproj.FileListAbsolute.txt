@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\04. Maximal Sequence\bin\Debug\_04.Maximal_Sequence.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\04. Maximal Sequence\bin\Debug\_04.Maximal_Sequence.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\04. Maximal Sequence\bin\Debug\_04.Maximal_Sequence.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\04. Maximal Sequence\obj\Debug\04. Maximal Sequence.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\04. Maximal Sequence\obj\Debug\_04.Maximal_Sequence.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\04. Maximal Sequence\obj\Debug\_04.Maximal_Sequence.pdb

@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\08. Binary Short\bin\Debug\_08.Binary_Short.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\08. Binary Short\bin\Debug\_08.Binary_Short.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\08. Binary Short\bin\Debug\_08.Binary_Short.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\08. Binary Short\obj\Debug\_08.Binary_Short.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\08. Binary Short\obj\Debug\_08.Binary_Short.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 04 Numeral Systems\08. Binary Short\obj\Debug\08. Binary Short.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 04 Numeral Systems\08. Binary Short\bin\Debug\_08.Binary_Short.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 04 Numeral Systems\08. Binary Short\obj\Debug\_08.Binary_Short.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 04 Numeral Systems\08. Binary Short\obj\Debug\_08.Binary_Short.pdb

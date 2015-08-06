@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\PrintAsciiTable\bin\Debug\PrintAsciiTable.exe.config
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\PrintAsciiTable\obj\Debug\PrintAsciiTable.exe
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\PrintAsciiTable\obj\Debug\PrintAsciiTable.pdb

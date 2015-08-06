@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\10. Odd Or Even Product\bin\Debug\_10.Odd_Or_Even_Product.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\10. Odd Or Even Product\bin\Debug\_10.Odd_Or_Even_Product.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\10. Odd Or Even Product\bin\Debug\_10.Odd_Or_Even_Product.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\10. Odd Or Even Product\obj\Debug\_10.Odd_Or_Even_Product.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\10. Odd Or Even Product\obj\Debug\_10.Odd_Or_Even_Product.pdb

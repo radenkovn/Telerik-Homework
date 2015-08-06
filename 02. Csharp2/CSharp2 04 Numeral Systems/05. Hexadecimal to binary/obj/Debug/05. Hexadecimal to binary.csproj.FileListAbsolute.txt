@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\05. Hexadecimal to binary\bin\Debug\_05.Hexadecimal_to_binary.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\05. Hexadecimal to binary\bin\Debug\_05.Hexadecimal_to_binary.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\05. Hexadecimal to binary\bin\Debug\_05.Hexadecimal_to_binary.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\05. Hexadecimal to binary\obj\Debug\_05.Hexadecimal_to_binary.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\05. Hexadecimal to binary\obj\Debug\_05.Hexadecimal_to_binary.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\05. Hexadecimal to binary\obj\Debug\05. Hexadecimal to binary.csprojResolveAssemblyReference.cache

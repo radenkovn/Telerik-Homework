@@ -1,0 +1,5 @@
+C:\Users\Admin\documents\visual studio 2013\Projects\CSharp2 07 Exception Handling\04. Download a File\bin\Debug\_04.Download_a_File.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 07 Exception Handling\04. Download a File\bin\Debug\_04.Download_a_File.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 07 Exception Handling\04. Download a File\bin\Debug\_04.Download_a_File.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 07 Exception Handling\04. Download a File\obj\Debug\_04.Download_a_File.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 07 Exception Handling\04. Download a File\obj\Debug\_04.Download_a_File.pdb

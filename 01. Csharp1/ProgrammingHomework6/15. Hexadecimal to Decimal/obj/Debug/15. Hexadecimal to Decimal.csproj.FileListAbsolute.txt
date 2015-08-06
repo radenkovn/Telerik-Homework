@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\15. Hexadecimal to Decimal\bin\Debug\_15.Hexadecimal_to_Decimal.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\15. Hexadecimal to Decimal\bin\Debug\_15.Hexadecimal_to_Decimal.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\15. Hexadecimal to Decimal\bin\Debug\_15.Hexadecimal_to_Decimal.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\15. Hexadecimal to Decimal\obj\Debug\_15.Hexadecimal_to_Decimal.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework6\15. Hexadecimal to Decimal\obj\Debug\_15.Hexadecimal_to_Decimal.pdb

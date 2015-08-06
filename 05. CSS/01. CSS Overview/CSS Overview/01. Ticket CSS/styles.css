@@ -1,0 +1,110 @@
+﻿body {
+    background-color: #707070;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1 {
+    color: lightgray;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 16px;
+    font-family: sans-serif;
+}
+
+th {
+    width: 110px;
+    color: white;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 30px;
+    font-family: sans-serif;
+    text-align: left;
+    vertical-align: top;
+}
+
+td {
+    width: 200px;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 30px;
+    font-family: sans-serif;
+    text-align: left;
+    vertical-align: text-top;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.important {
+    color: #ffff82;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 30px;
+    font-family: sans-serif;
+}
+
+
+.important-one {
+    color: #ffff82;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 30px;
+    margin-left:15px;
+}
+
+.important-one:before {
+    content: "\2022";
+    color: lightgreen;
+    display: block;
+    position: relative;
+    max-width: 0;
+    max-height: 0;
+    left: -15px;
+    top: 0;
+    font-size:  30px;
+}
+
+.unimportant {
+    color: lightgray;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 30px;
+    font-family: sans-serif;
+}
+
+.support {
+    color: #f20000;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 1px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+
+.semi-important {
+    color: orange;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 30px;
+    font-family: sans-serif;
+}

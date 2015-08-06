@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\06. Common Type System\StudentClass\bin\Debug\StudentClass.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\06. Common Type System\StudentClass\bin\Debug\StudentClass.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\06. Common Type System\StudentClass\bin\Debug\StudentClass.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\06. Common Type System\StudentClass\obj\Debug\01.-03.StudentClass.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\06. Common Type System\StudentClass\obj\Debug\StudentClass.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\06. Common Type System\StudentClass\obj\Debug\StudentClass.pdb

@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\03.  Sequence n matrix\bin\Debug\_03.Sequence_n_matrix.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\03.  Sequence n matrix\bin\Debug\_03.Sequence_n_matrix.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\03.  Sequence n matrix\bin\Debug\_03.Sequence_n_matrix.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\03.  Sequence n matrix\obj\Debug\03.  Sequence n matrix.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\03.  Sequence n matrix\obj\Debug\_03.Sequence_n_matrix.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp 2 02 Multidimensional Arrays\03.  Sequence n matrix\obj\Debug\_03.Sequence_n_matrix.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional Arrays\03.  Sequence n matrix\bin\Debug\_03.Sequence_n_matrix.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional Arrays\03.  Sequence n matrix\obj\Debug\_03.Sequence_n_matrix.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional Arrays\03.  Sequence n matrix\obj\Debug\_03.Sequence_n_matrix.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional Arrays\03.  Sequence n matrix\bin\Debug\_03.Sequence_n_matrix.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional Arrays\03.  Sequence n matrix\bin\Debug\_03.Sequence_n_matrix.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional Arrays\03.  Sequence n matrix\obj\Debug\03.  Sequence n matrix.csprojResolveAssemblyReference.cache

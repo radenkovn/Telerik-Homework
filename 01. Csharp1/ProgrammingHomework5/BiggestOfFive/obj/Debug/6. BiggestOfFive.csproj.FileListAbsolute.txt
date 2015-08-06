@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\BiggestOfFive\bin\Debug\BiggestOfFive.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\BiggestOfFive\obj\Debug\BiggestOfFive.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework5\BiggestOfFive\obj\Debug\BiggestOfFive.pdb

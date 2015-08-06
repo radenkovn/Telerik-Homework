@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\MoonGravity\bin\Debug\MoonGravity.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\MoonGravity\obj\Debug\MoonGravity.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\MoonGravity\obj\Debug\MoonGravity.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\MoonGravity\bin\Debug\MoonGravity.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\MoonGravity\obj\Debug\MoonGravity.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework3\MoonGravity\obj\Debug\MoonGravity.pdb

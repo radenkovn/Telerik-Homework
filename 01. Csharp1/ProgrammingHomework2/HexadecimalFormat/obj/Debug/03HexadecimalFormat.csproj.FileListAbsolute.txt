@@ -1,0 +1,2 @@
+C:\Users\Admin\Documents\visual studio 2013\Projects\ProgrammingHomework2\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework2\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe.config

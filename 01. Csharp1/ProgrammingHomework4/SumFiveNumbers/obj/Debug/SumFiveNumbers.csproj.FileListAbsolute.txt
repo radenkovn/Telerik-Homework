@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\SumFiveNumbers\bin\Debug\SumFiveNumbers.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\SumFiveNumbers\bin\Debug\SumFiveNumbers.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\SumFiveNumbers\bin\Debug\SumFiveNumbers.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\SumFiveNumbers\obj\Debug\SumFiveNumbers.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\SumFiveNumbers\obj\Debug\SumFiveNumbers.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework4\SumFiveNumbers\obj\Debug\SumFiveNumbers.csprojResolveAssemblyReference.cache

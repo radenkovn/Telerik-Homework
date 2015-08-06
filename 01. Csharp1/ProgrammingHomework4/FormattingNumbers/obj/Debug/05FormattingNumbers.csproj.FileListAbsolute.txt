@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\FormattingNumbers\obj\Debug\FormattingNumbers.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\FormattingNumbers\bin\Debug\FormattingNumbers.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework4\FormattingNumbers\bin\Debug\FormattingNumbers.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework4\FormattingNumbers\obj\Debug\FormattingNumbers.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework4\FormattingNumbers\obj\Debug\FormattingNumbers.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework4\FormattingNumbers\bin\Debug\FormattingNumbers.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\01. Csharp1\ProgrammingHomework4\FormattingNumbers\bin\Debug\FormattingNumbers.pdb

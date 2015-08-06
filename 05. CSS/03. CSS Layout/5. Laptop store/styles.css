@@ -1,0 +1,93 @@
+﻿main .left-col {
+    border: 1px solid black;
+    border-width: 3px;
+    width: 539px;
+    height: 536px;
+    padding: 5px;
+}
+
+main .second-col {
+    position: relative;
+    top: -489px;
+    left: 576px;
+    font-size: 30px;
+    font-family: 'Candara',Calibri,Arial,Serif;
+}
+
+    main .second-col input {
+        display: block;
+        width: 270px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+fieldset {
+    border: 1px solid black;
+    border-width: 3px;
+    width: 232px;
+    height: 150px;
+    font-family: 'Candara',Calibri,Arial,Serif;
+    font-size: 20px;
+}
+
+    fieldset img {
+        width: 120px;
+        height: 69px;
+    }
+
+    fieldset .first {
+        position: relative;
+        top: -47px;
+        left: 127px;
+    }
+
+    fieldset .second {
+        position: relative;
+        top: -31px;
+        left: 127px;
+    }
+
+    fieldset .third {
+        position: relative;
+        top: -14px;
+        left: 18px;
+    }
+
+    fieldset .fourth {
+        position: relative;
+        top: -38px;
+        left: 127px;
+    }
+
+.field-two {
+    position: relative;
+    top: -533px;
+    left: 272px;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    .field-two {
+        top: -526px;
+    }
+
+    main .left-col {
+        width: 544px;
+        height: 529px;
+    }
+}
+
+nav {
+    text-align: center;
+    width: 860px;
+}
+
+    nav a {
+        font-size: 25px;
+        font-weight: bold;
+        color: #3BAFEF;
+        font-family: 'Candara',Calibri,Arial,Serif;
+    }
+
+hr {
+    width: 90%;
+}

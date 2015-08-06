@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\05. OOP Principles - Part 2\RangeExceptions\bin\Debug\RangeExceptions.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\05. OOP Principles - Part 2\RangeExceptions\bin\Debug\RangeExceptions.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\05. OOP Principles - Part 2\RangeExceptions\bin\Debug\RangeExceptions.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\05. OOP Principles - Part 2\RangeExceptions\obj\Debug\RangeExceptions.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\03. OOP 1\05. OOP Principles - Part 2\RangeExceptions\obj\Debug\RangeExceptions.pdb

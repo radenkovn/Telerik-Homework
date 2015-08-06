@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\04. Semantic HTML\1. Refactoring\bin\_1.Refactoring.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\04. Semantic HTML\1. Refactoring\bin\_1.Refactoring.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\04. Semantic HTML\1. Refactoring\bin\_1.Refactoring.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\04. Semantic HTML\1. Refactoring\obj\Debug\1. Refactoring.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\04. Semantic HTML\1. Refactoring\obj\Debug\_1.Refactoring.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\04. Semantic HTML\1. Refactoring\obj\Debug\_1.Refactoring.pdb

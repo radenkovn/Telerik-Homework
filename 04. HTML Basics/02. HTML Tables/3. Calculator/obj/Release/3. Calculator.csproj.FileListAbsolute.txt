@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\3. Calculator\bin\_3.Calculator.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\3. Calculator\bin\_3.Calculator.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\3. Calculator\bin\_3.Calculator.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\3. Calculator\obj\Release\3. Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\3. Calculator\obj\Release\_3.Calculator.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\3. Calculator\obj\Release\_3.Calculator.pdb

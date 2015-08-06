@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\BitExchange\bin\Debug\BitExchange.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\BitExchange\obj\Debug\BitExchange.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework3\BitExchange\obj\Debug\BitExchange.pdb

@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\11. Binary Search\bin\Debug\_11.Binary_Search.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\11. Binary Search\bin\Debug\_11.Binary_Search.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\11. Binary Search\bin\Debug\_11.Binary_Search.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\11. Binary Search\obj\Debug\_11.Binary_Search.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\11. Binary Search\obj\Debug\_11.Binary_Search.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 01 Arrays\11. Binary Search\bin\Debug\_11.Binary_Search.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 01 Arrays\11. Binary Search\obj\Debug\_11.Binary_Search.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\02. Csharp2\CSharp2 01 Arrays\11. Binary Search\obj\Debug\_11.Binary_Search.pdb

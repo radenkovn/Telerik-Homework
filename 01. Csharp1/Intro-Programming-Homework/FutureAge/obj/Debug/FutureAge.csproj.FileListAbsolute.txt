@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\FutureAge\bin\Debug\FutureAge.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\FutureAge\obj\Debug\FutureAge.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\FutureAge\bin\Debug\FutureAge.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\FutureAge\bin\Debug\FutureAge.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\FutureAge\obj\Debug\FutureAge.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\FutureAge\obj\Debug\FutureAge.pdb

@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\04. CSS Preprocessors\2. Web Gallery\bin\_2.Web_Gallery.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\04. CSS Preprocessors\2. Web Gallery\bin\_2.Web_Gallery.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\04. CSS Preprocessors\2. Web Gallery\bin\_2.Web_Gallery.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\04. CSS Preprocessors\2. Web Gallery\obj\Debug\_2.Web_Gallery.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\05. CSS\04. CSS Preprocessors\2. Web Gallery\obj\Debug\_2.Web_Gallery.pdb

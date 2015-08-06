@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\NumbersToN\bin\Debug\NumbersToN.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\NumbersToN\obj\Debug\NumbersToN.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\ProgrammingHomework4\NumbersToN\obj\Debug\NumbersToN.pdb

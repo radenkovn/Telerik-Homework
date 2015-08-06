@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\EmployeeData\bin\Debug\EmployeeData.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\EmployeeData\bin\Debug\EmployeeData.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\EmployeeData\bin\Debug\EmployeeData.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\EmployeeData\obj\Debug\EmployeeData.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\EmployeeData\obj\Debug\EmployeeData.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework2\EmployeeData\obj\Debug\EmployeeData.pdb

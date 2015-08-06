@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\SortThreeNumbers\bin\Debug\SortThreeNumbers.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\SortThreeNumbers\bin\Debug\SortThreeNumbers.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\SortThreeNumbers\bin\Debug\SortThreeNumbers.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\SortThreeNumbers\obj\Debug\SortThreeNumbers.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\SortThreeNumbers\obj\Debug\SortThreeNumbers.exe
+c:\users\admin\documents\visual studio 2013\Projects\ProgrammingHomework5\SortThreeNumbers\obj\Debug\SortThreeNumbers.pdb

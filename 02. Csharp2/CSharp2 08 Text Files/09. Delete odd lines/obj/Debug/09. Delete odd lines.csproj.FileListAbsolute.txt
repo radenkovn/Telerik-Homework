@@ -1,0 +1,1 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\09. Delete odd lines\bin\Debug\_09.Delete_odd_lines.exe.config

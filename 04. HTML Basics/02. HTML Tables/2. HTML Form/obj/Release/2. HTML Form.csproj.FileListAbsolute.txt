@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\2. HTML Form\bin\_2.HTML_Form.dll.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\2. HTML Form\bin\_2.HTML_Form.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\2. HTML Form\bin\_2.HTML_Form.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\2. HTML Form\obj\Release\_2.HTML_Form.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\04. HTML Basics\02. HTML Tables\2. HTML Form\obj\Release\_2.HTML_Form.pdb

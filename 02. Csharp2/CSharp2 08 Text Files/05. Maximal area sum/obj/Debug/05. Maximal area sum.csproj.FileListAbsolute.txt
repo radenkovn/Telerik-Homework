@@ -1,0 +1,5 @@
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\05. Maximal area sum\bin\Debug\_05.Maximal_area_sum.exe.config
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\05. Maximal area sum\bin\Debug\_05.Maximal_area_sum.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\05. Maximal area sum\bin\Debug\_05.Maximal_area_sum.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\05. Maximal area sum\obj\Debug\_05.Maximal_area_sum.exe
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 08 Text Files\05. Maximal area sum\obj\Debug\_05.Maximal_area_sum.pdb

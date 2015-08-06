@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\02. Binary to Decimal\bin\Debug\_02.Binary_to_Decimal.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\02. Binary to Decimal\bin\Debug\_02.Binary_to_Decimal.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\02. Binary to Decimal\bin\Debug\_02.Binary_to_Decimal.pdb
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\02. Binary to Decimal\obj\Debug\_02.Binary_to_Decimal.exe
+c:\users\admin\documents\visual studio 2013\Projects\CSharp2 04 Numeral Systems\02. Binary to Decimal\obj\Debug\_02.Binary_to_Decimal.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 04 Numeral Systems\02. Binary to Decimal\obj\Debug\02. Binary to Decimal.csprojResolveAssemblyReference.cache
