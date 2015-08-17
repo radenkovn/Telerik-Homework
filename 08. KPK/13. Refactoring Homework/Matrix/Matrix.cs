@@ -1,42 +1,53 @@
 ﻿namespace RefactoringMatrix
 {
     using System;
-    class WalkInMatrica
+    using RefactoringMatrix.Classes;
+    public class Matrix
     {
-        static void change(ref int dx, ref int dy)
+        public static Cell GetNewDirection(int directionRow, int directionCol)
         {
             int[] dirX = { 1, 1, 1, 0, -1, -1, -1, 0 };
             int[] dirY = { 1, 0, -1, -1, -1, 0, 1, 1 };
-            int cd = 0;
+            int changeDirection = 0;
             for (int count = 0; count < 8; count++)
             {
-                if (dirX[count] == dx && dirY[count] == dy)
+                if (dirX[count] == directionRow && dirY[count] == directionCol)
                 {
-                    cd = count;
+                    changeDirection = count;
                     break;
                 }
             }
-            if (cd == 7)
+            if (changeDirection == 7)
             {
-                dx = dirX[0]; dy = dirY[0];
-                return;
+                directionRow = dirX[0]; directionCol = dirY[0];
             }
-            dx = dirX[cd + 1];
-            dy = dirY[cd + 1];
+            else
+            {
+                directionRow = dirX[changeDirection + 1];
+                directionCol = dirY[changeDirection + 1];
+            }
+            return new Cell(directionRow, directionCol);
         }
 
-        static bool proverka(int[,] arr, int x, int y)
+        public static bool ValidateDirection(int[,] matrix, int currentRow, int currentCol)
         {
-            int[] dirX = { 1, 1, 1, 0, -1, -1, -1, 0 };
-            int[] dirY = { 1, 0, -1, -1, -1, 0, 1, 1 };
+            int[] dirRow = { 1, 1, 1, 0, -1, -1, -1, 0 };
+            int[] dirCol = { 1, 0, -1, -1, -1, 0, 1, 1 };
+            var length = matrix.GetLength(0);
             for (int i = 0; i < 8; i++)
             {
-                if (x + dirX[i] >= arr.GetLength(0) || x + dirX[i] < 0) dirX[i] = 0;
-                if (y + dirY[i] >= arr.GetLength(0) || y + dirY[i] < 0) dirY[i] = 0;
+                if (currentRow + dirRow[i] >= length || currentRow + dirRow[i] < 0)
+                {
+                    dirRow[i] = 0;
+                }
+                if (currentCol + dirCol[i] >= length || currentCol + dirCol[i] < 0)
+                {
+                    dirCol[i] = 0;
+                }
             }
             for (int i = 0; i < 8; i++)
             {
-                if (arr[x + dirX[i], y + dirY[i]] == 0)
+                if (matrix[currentRow + dirRow[i], currentCol + dirCol[i]] == 0)
                 {
                     return true;
                 }
@@ -44,83 +55,85 @@
             return false;
         }
 
-        static void find_cell(int[,] arr, out int x, out int y)
+        public static Cell GetNextCell(int[,] matrix)
         {
-            x = 0;
-            y = 0;
-            for (int i = 0; i < arr.GetLength(0); i++)
+            int x = 0;
+            int y = 0;
+            int length = matrix.GetLength(0);
+            for (int row = 0; row < length; row++)
             {
-                for (int j = 0; j < arr.GetLength(0); j++)
+                for (int col = 0; col < length; col++)
                 {
-                    if (arr[i, j] == 0)
+                    if (matrix[row, col] == 0)
                     {
-                        x = i; y = j;
-                        return;
+                        x = row;
+                        y = col;
+                        return new Cell(x, y);
                     }
                 }
+            }
+            return null;
+        }
+
+        public static void PrintMatrix(int[,] matrix, int matrixSize)
+        {
+            for (int row = 0; row < matrixSize; row++)
+            {
+                for (int col = 0; col < matrixSize; col++)
+                {
+                    Console.Write("{0,4}", matrix[row, col]);
+                }
+                Console.WriteLine();
             }
         }
 
-        static void Main(string[] args)
+        public static void FillMatrix(int[,] matrix, int matrixSize)
         {
-            int matrixSize = 3;
-            int[,] matrix = new int[matrixSize, matrixSize];
-            int k = 1;
-            int i = 0;
-            int j = 0;
-            int dx = 1;
-            int dy = 1;
-            while (true)
-            { //malko e kofti tova uslovie, no break-a raboti 100% : )
-                matrix[i, j] = k;
+            int currentNumber = 1;
+            int currentRow = 0;
+            int currentCol = 0;
+            int destinationRow = 1;
+            int destinationCol = 1;
+            var nextCell = GetNextCell(matrix);
+            while (nextCell != null)
+            {
+                matrix[currentRow, currentCol] = currentNumber;
+                if (!ValidateDirection(matrix, currentRow, currentCol))
+                {
+                    nextCell = GetNextCell(matrix);
+                    if (nextCell != null)
+                    {
+                        currentRow = nextCell.Row;
+                        currentCol = nextCell.Col;
+                    }
+                    continue;
+                }
 
-                if (!proverka(matrix, i, j))
+                var destinationRowOutOfRange = (currentRow + destinationRow >= matrixSize || currentRow + destinationRow < 0);
+                var destinationColOutOfRange = (currentCol + destinationCol >= matrixSize || currentCol + destinationCol < 0);
+                var destinationOutOfRange = destinationColOutOfRange || destinationRowOutOfRange || matrix[currentRow + destinationRow, currentCol + destinationCol] != 0;
+                while (destinationOutOfRange)
                 {
-                    break;
-                } // prekusvame ako sme se zadunili
-                if (i + dx >= matrixSize || i + dx < 0 || j + dy >= matrixSize || j + dy < 0 || matrix[i + dx, j + dy] != 0)
-                {
-                    while ((i + dx >= matrixSize || i + dx < 0 || j + dy >= matrixSize || j + dy < 0 || matrix[i + dx, j + dy] != 0))
-                    {
-                        change(ref dx, ref dy);
-                    }
+                    var newDirection = GetNewDirection(destinationRow, destinationCol);
+                    destinationRow = newDirection.Row;
+                    destinationCol = newDirection.Col;
+
+                    destinationRowOutOfRange = (currentRow + destinationRow >= matrixSize) || (currentRow + destinationRow < 0);
+                    destinationColOutOfRange = (currentCol + destinationCol >= matrixSize) || (currentCol + destinationCol < 0);
+                    destinationOutOfRange = destinationColOutOfRange || destinationRowOutOfRange || matrix[currentRow + destinationRow, currentCol + destinationCol] != 0;
                 }
-                i += dx; j += dy; k++;
+                currentRow += destinationRow;
+                currentCol += destinationCol;
+                currentNumber++;
             }
-            for (int p = 0; p < matrixSize; p++)
-            {
-                for (int q = 0; q < matrixSize; q++) Console.Write("{0,3}", matrix[p, q]);
-                Console.WriteLine();
-            }
-            find_cell(matrix, out i, out j);
-            if (i != 0 && j != 0)
-            { // taka go napravih, zashtoto funkciqta ne mi davashe da ne si definiram out parametrite
-                dx = 1; dy = 1;
-                while (true)
-                { //malko e kofti tova uslovie, no break-a raboti 100% : )
-                    matrix[i, j] = k;
-                    if (!proverka(matrix, i, j))
-                    {
-                        break;
-                    }// prekusvame ako sme se zadunili
-                    if (i + dx >= matrixSize || i + dx < 0 || j + dy >= matrixSize || j + dy < 0 || matrix[i + dx, j + dy] != 0)
-                    {
-                        while ((i + dx >= matrixSize || i + dx < 0 || j + dy >= matrixSize || j + dy < 0 || matrix[i + dx, j + dy] != 0))
-                        {
-                            change(ref dx, ref dy);
-                        }
-                    }
-                    i += dx; j += dy; k++;
-                }
-            }
-            for (int pp = 0; pp < matrixSize; pp++)
-            {
-                for (int qq = 0; qq < matrixSize; qq++)
-                {
-                    Console.Write("{0,3}", matrix[pp, qq]);
-                }
-                Console.WriteLine();
-            }
+        }
+
+        public static void Main(string[] args)
+        {
+            int matrixSize = 15;
+            int[,] matrix = new int[matrixSize, matrixSize];
+            FillMatrix(matrix, matrixSize);
+            PrintMatrix(matrix, matrixSize);
         }
     }
 }

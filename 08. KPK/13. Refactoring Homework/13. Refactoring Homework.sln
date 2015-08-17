@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringMatrix", "Matrix\RefactoringMatrix.csproj", "{AF1D2A6D-CC1B-4EBD-B48D-54021CB77A26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringMatrix.Tests", "RefactoringMatrix.Tests\RefactoringMatrix.Tests.csproj", "{CC915AE4-90D3-4A51-8D49-B0007D3FFC6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AF1D2A6D-CC1B-4EBD-B48D-54021CB77A26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF1D2A6D-CC1B-4EBD-B48D-54021CB77A26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF1D2A6D-CC1B-4EBD-B48D-54021CB77A26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC915AE4-90D3-4A51-8D49-B0007D3FFC6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC915AE4-90D3-4A51-8D49-B0007D3FFC6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC915AE4-90D3-4A51-8D49-B0007D3FFC6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC915AE4-90D3-4A51-8D49-B0007D3FFC6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
