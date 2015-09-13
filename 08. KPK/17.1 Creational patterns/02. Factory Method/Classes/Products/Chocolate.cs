@@ -1,4 +1,4 @@
-﻿namespace Abstract_Factory.Classes.Products
+﻿namespace Factory_Method.Classes.Products
 {
     using System;
     using System.Collections.Generic;
