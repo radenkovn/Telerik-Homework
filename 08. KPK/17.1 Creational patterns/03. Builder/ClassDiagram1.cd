@@ -1,2 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Builder.Classes.Builder.ChocolateBuilder">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAIAAAAAAAAABAAAAAAAAAAQAQAABAAAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Builder\ChocolateBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.Classes.Builder.MilkaBuilder">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAIAAAAAAAAABAAAAAAAAAAQAAAABAAAAAAAAAAQ=</HashCode>
+      <FileName>Classes\Builder\MilkaBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.Classes.Director.ChocolateDirector">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Director\ChocolateDirector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Builder.Classes.Products.Chocolate">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAEAAABBABAAQAQAAAAEQAACAEAAAgAAAAAAEBAAA=</HashCode>
+      <FileName>Classes\Products\Chocolate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
