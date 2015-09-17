@@ -1,2 +1,47 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Facade.Playstation">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAABAAAACAAAADAAAAAAIAAAAAQAAABAAAAAACAAAA=</HashCode>
+      <FileName>Classes\Facade\Playstation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade.Classes.Library.CDPlayer" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAoAAABAAAAQA=</HashCode>
+      <FileName>Classes\Library\CDPlayer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Facade.Classes.Library.DisplayController">
+    <Position X="2" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Classes\Library\DisplayController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Facade.Classes.Library.Media">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQAAAAAAABA=</HashCode>
+      <FileName>Classes\Library\Media.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Facade.Classes.Library.IPlayer">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAgAAAAAAAAAoAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Library\IPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Facade.Classes.Library.MediaType">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAEAAAg=</HashCode>
+      <FileName>Classes\Library\MediaType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

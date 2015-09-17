@@ -1,3 +1,4 @@
+GITHUB LINK : https://github.com/radenkovn/Telerik-Homework/tree/master/08.%20KPK/17.2%20Structural%20Patterns
 
 
 Creational Patterns Homework

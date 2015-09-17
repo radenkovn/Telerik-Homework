@@ -1,2 +1,32 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<ClassDiagram /> 
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Composite.Classes.Chocolate">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Chocolate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Composite.Classes.IceCream">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\IceCream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Composite.Classes.Sweet">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAIAAAACQAAAAEAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Sweet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Composite.Classes.SweetsBox">
+    <Position X="4.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAIBAAAAAEAAAAAA=</HashCode>
+      <FileName>Classes\SweetsBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
