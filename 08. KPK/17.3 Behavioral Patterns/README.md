@@ -1,4 +1,4 @@
-GITHUB LINK : 
+GITHUB LINK : https://github.com/radenkovn/Telerik-Homework/tree/master/08.%20KPK/17.3%20Behavioral%20Patterns
 
 
 Behavioral Patterns Homework
