@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<students xmlns:students="hogwarts.students">
+    <students:student>
+        <students:name>Harry Potter</students:name>
+        <students:sex>male</students:sex>
+        <students:birth>01.01.1998</students:birth>
+        <students:phone>0888555666</students:phone>
+        <students:email>harrypotter@hogwarts.com</students:email>
+        <students:course>Magician</students:course>
+        <students:specialty>Alchemy</students:specialty>
+        <students:facultyNumber>23883</students:facultyNumber>
+        <students:exams>
+            <students:exam>
+                <students:examName>Potions</students:examName>
+                <students:tutor>Snape</students:tutor>
+                <students:score>2</students:score>
+            </students:exam>
+            <students:exam>
+                <students:examName>Potions</students:examName>
+                <students:tutor>Hagrid</students:tutor>
+                <students:score>6</students:score>
+            </students:exam>
+        </students:exams>
+    </students:student>
+    <students:student>
+        <students:name>Hermione Granger</students:name>
+        <students:sex>female</students:sex>
+        <students:birth>01.06.1998</students:birth>
+        <students:phone>0888123456</students:phone>
+        <students:email>hermione@hogwarts.com</students:email>
+        <students:course>Magician</students:course>
+        <students:specialty>White Arts</students:specialty>
+        <students:facultyNumber>23478</students:facultyNumber>
+        <students:exams>
+            <students:exam>
+                <students:examName>Leviosa</students:examName>
+                <students:tutor>Quirrell</students:tutor>
+                <students:score>6</students:score>
+            </students:exam>
+            <students:exam>
+                <students:examName>Charms</students:examName>
+                <students:tutor>Flitwick</students:tutor>
+                <students:score>6</students:score>
+            </students:exam>
+        </students:exams>
+    </students:student>
+    <students:student>
+        <students:name>Ronald Weasley</students:name>
+        <students:sex>male</students:sex>
+        <students:birth>05.08.1998</students:birth>
+        <students:phone>088849585</students:phone>
+        <students:email>hermione@hogwarts.com</students:email>
+        <students:course>Magician</students:course>
+        <students:specialty>White Arts</students:specialty>
+        <students:facultyNumber>23478</students:facultyNumber>
+        <students:exams>
+            <students:exam>
+                <students:examName>Defence Against the Dark Arts</students:examName>
+                <students:tutor>Quirrell</students:tutor>
+                <students:score>5</students:score>
+            </students:exam>
+            <students:exam>
+                <students:examName>Herbology</students:examName>
+                <students:tutor>Sprout</students:tutor>
+                <students:score>6</students:score>
+            </students:exam>
+        </students:exams>
+    </students:student>
+</students>

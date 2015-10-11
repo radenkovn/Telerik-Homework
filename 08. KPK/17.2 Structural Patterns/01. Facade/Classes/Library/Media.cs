@@ -1,11 +1,8 @@
 ﻿namespace Facade.Classes.Library
 {
     using System;
-    using System.Collections.Generic;
     using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-    class Media
+    public class Media
     {
         public Media(string name, MediaType type)
         {

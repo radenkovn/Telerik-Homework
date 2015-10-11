@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="catalogueTransformer.xsl"?>
+<albums  xmlns="http://www.contoso.com/books">
+    <album>
+        <name>Arrival</name>
+        <artist>ABBA</artist>
+        <year>1976</year>
+        <producer>Sony Music</producer>
+        <price>15</price>
+        <songs>
+            <song>
+                <title>Dancing Queen</title>
+                <duration>3:25</duration>
+            </song>
+            <song>
+                <title>Money, Money, Money</title>
+                <duration>2:53</duration>
+            </song>
+            <song>
+                <title>Arrival</title>
+                <duration>3:50</duration>
+            </song>
+            <song>
+                <title>Knowing me, Knowing you</title>
+                <duration>4:10</duration>
+            </song>
+        </songs>
+    </album>
+    <album>
+        <name>ABBA: The Album</name>
+        <artist>ABBA</artist>
+        <year>1977</year>
+        <producer>Polar</producer>
+        <price>21</price>
+        <songs>
+            <song>
+                <title>Eagle</title>
+                <duration>3:45</duration>
+            </song>
+            <song>
+                <title>Take A Chance On Me</title>
+                <duration>3:13</duration>
+            </song>
+            <song>
+                <title>Thank You for the Music</title>
+                <duration>4:30</duration>
+            </song>
+            <song>
+                <title>The Name of the Game</title>
+                <duration>5:10</duration>
+            </song>
+        </songs>
+    </album>
+    <album>
+        <name>Nightflight to Venus</name>
+        <artist>BoneyM</artist>
+        <year>1978</year>
+        <producer>Sony Music</producer>
+        <price>14</price>
+        <songs>
+            <song>
+                <title>Rasputin</title>
+                <duration>4:46</duration>
+            </song>
+            <song>
+                <title>Rivers of Babylon</title>
+                <duration>4:18</duration>
+            </song>
+            <song>
+                <title>Brown Girl in the Ring</title>
+                <duration>4:02</duration>
+            </song>
+            <song>
+                <title>Nightflight to Venus</title>
+                <duration>4:46</duration>
+            </song>
+        </songs>
+    </album>
+</albums>

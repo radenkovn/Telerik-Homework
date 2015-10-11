@@ -5,7 +5,7 @@
     using System.Linq;
     using System.Text;
     using System.Threading.Tasks;
-    enum MediaType
+    public enum MediaType
     {
         Game,
         Music,

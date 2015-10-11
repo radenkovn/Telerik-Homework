@@ -1,0 +1,11 @@
+XML stands for Extensible Markup Language. It serves as a means to store and transport data. It is easily readable by humans and machines.
+
+URI - Uniform Resource Identifier - identifies the name of a resource.
+
+URN - Uniform Resource Name - A URI which identifies the name of a resource within a namespace.
+
+URL - Uniform Resource Locator - A URI which identifies a web resource.
+
+An XML namespace is an abstract domain to which a collection of element and attribute names can be assigned. 
+The name of the namespace itself is not strictly defined.
+Even if some names might start with 'http:' they don't have anything to do with the specified URL address.

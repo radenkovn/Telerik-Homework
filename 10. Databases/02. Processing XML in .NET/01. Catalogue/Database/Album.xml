@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+	<album>
+		<name>Arrival</name>
+		<artist>ABBA</artist>
+	</album>
+	<album>
+		<name>ABBA: The Album</name>
+		<artist>ABBA</artist>
+	</album>
+	<album>
+		<name>Nightflight to Venus</name>
+		<artist>BoneyM</artist>
+	</album>
+</albums>

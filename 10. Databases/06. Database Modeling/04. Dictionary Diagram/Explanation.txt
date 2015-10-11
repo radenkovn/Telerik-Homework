@@ -1,0 +1,7 @@
+Each word can have a different meaning in a lot of languages
+This way all the words with their meanings are contained in the Words_Translated Table
+Each synonym applies to a set of words and each language can have a lot of different synonym groups of words
+Each word can have a lot of explanations in a lot of different languages 
+(explanation table might not be needed, it can be a column in the Words_Tranlsated Table)
+
+I think that's all!

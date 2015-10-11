@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proxy.Classes
 {
-    interface IChocolate
+    public interface IChocolate
     {
         string ChocolateType;
 

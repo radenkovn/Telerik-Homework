@@ -4,9 +4,8 @@
     using System.Collections.Generic;
     using System.Linq;
     using System.Text;
-    using System.Threading.Tasks;
 
-    class SweetsBox : Sweet
+    public class SweetsBox : Sweet
     {
         private IList<Sweet> sweets;
         public SweetsBox(string name)
