@@ -1,6 +1,6 @@
 ﻿namespace Builder.Classes.Director
 {
-    using Builder.Classes.Builder;
+    using Builder.Classes;
     using Builder.Classes.Products;
 
     class ChocolateDirector

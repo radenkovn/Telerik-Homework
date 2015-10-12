@@ -1,7 +1,6 @@
 ﻿namespace Builder.Classes.Products
 {
     using System;
-    using System.Collections.Generic;
     using System.Linq;
     public class Chocolate
     {

@@ -1,9 +1,8 @@
-﻿namespace Builder.Classes.Builder
+﻿namespace Builder.Classes
 {
-
-    using Builder.Classes.Products;
     using System;
-
+    
+    using Builder.Classes.Products;
 
     public abstract class ChocolateBuilder
     {
