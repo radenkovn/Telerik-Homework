@@ -44,7 +44,7 @@ namespace CompareSimpleMaths
 
             stopwatch.Stop();
             Console.WriteLine("Integer: {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (long i = 0; i < 1000; i++)
             {
@@ -52,7 +52,7 @@ namespace CompareSimpleMaths
             }
             stopwatch.Stop();
             Console.WriteLine("Long:    {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (float i = 0; i < 1000; i++)
             {
@@ -60,7 +60,7 @@ namespace CompareSimpleMaths
             }
             stopwatch.Stop();
             Console.WriteLine("Float:   {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (double i = 0; i < 1000; i++)
             {
@@ -68,7 +68,7 @@ namespace CompareSimpleMaths
             }
             stopwatch.Stop();
             Console.WriteLine("Double:  {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (decimal i = 0; i < 1000; i++)
             {
@@ -92,7 +92,7 @@ namespace CompareSimpleMaths
 
             stopwatch.Stop();
             Console.WriteLine("Integer: {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (long i = 0; i < 1000; i++)
             {
@@ -100,7 +100,7 @@ namespace CompareSimpleMaths
             }
             stopwatch.Stop();
             Console.WriteLine("Long:    {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (float i = 0; i < 1000; i++)
             {
@@ -108,7 +108,7 @@ namespace CompareSimpleMaths
             }
             stopwatch.Stop();
             Console.WriteLine("Float:   {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (double i = 0; i < 1000; i++)
             {
@@ -116,7 +116,7 @@ namespace CompareSimpleMaths
             }
             stopwatch.Stop();
             Console.WriteLine("Double:  {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (decimal i = 0; i < 1000; i++)
             {
@@ -140,7 +140,7 @@ namespace CompareSimpleMaths
 
             stopwatch.Stop();
             Console.WriteLine("Integer: {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (long i = 0; i < 1000; i++)
             {
@@ -148,7 +148,7 @@ namespace CompareSimpleMaths
             }
             stopwatch.Stop();
             Console.WriteLine("Long:    {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (float i = 0; i < 1000; i++)
             {
@@ -156,7 +156,7 @@ namespace CompareSimpleMaths
             }
             stopwatch.Stop();
             Console.WriteLine("Float:   {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (double i = 0; i < 1000; i++)
             {
@@ -164,7 +164,7 @@ namespace CompareSimpleMaths
             }
             stopwatch.Stop();
             Console.WriteLine("Double:  {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (decimal i = 0; i < 1000; i++)
             {
@@ -188,7 +188,7 @@ namespace CompareSimpleMaths
 
             stopwatch.Stop();
             Console.WriteLine("Integer: {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (long i = 0; i < 50; i++)
             {
@@ -196,7 +196,7 @@ namespace CompareSimpleMaths
             }
             stopwatch.Stop();
             Console.WriteLine("Long:    {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (float i = 0; i < 50; i++)
             {
@@ -204,7 +204,7 @@ namespace CompareSimpleMaths
             }
             stopwatch.Stop();
             Console.WriteLine("Float:   {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (double i = 0; i < 50; i++)
             {
@@ -212,7 +212,7 @@ namespace CompareSimpleMaths
             }
             stopwatch.Stop();
             Console.WriteLine("Double:  {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (decimal i = 0; i < 50; i++)
             {
@@ -236,7 +236,7 @@ namespace CompareSimpleMaths
 
             stopwatch.Stop();
             Console.WriteLine("Integer: {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (long i = 1; i < 50; i++)
             {
@@ -244,7 +244,7 @@ namespace CompareSimpleMaths
             }
             stopwatch.Stop();
             Console.WriteLine("Long:    {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (float i = 1; i < 50; i++)
             {
@@ -252,7 +252,7 @@ namespace CompareSimpleMaths
             }
             stopwatch.Stop();
             Console.WriteLine("Float:   {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (double i = 1; i < 50; i++)
             {
@@ -260,7 +260,7 @@ namespace CompareSimpleMaths
             }
             stopwatch.Stop();
             Console.WriteLine("Double:  {0,20}", stopwatch.Elapsed);
-            stopwatch.Restart();
+            stopwatch.Start();
 
             for (decimal i = 1; i < 50; i++)
             {

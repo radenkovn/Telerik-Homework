@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.-05. Northwind tasks", "01. Northwind tasks\01.-05. Northwind tasks.csproj", "{BA085226-1297-4454-9BD6-09D1F71C8EB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.-08. Excel Tasks", "06. Excel Tasks\06.-08. Excel Tasks.csproj", "{63856592-0F02-4121-B720-0AA8D8D4036E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. MySQL", "09. MySQL\09. MySQL.csproj", "{D66990E2-C372-40C4-B0AF-0516BFD6B4E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA085226-1297-4454-9BD6-09D1F71C8EB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA085226-1297-4454-9BD6-09D1F71C8EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA085226-1297-4454-9BD6-09D1F71C8EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA085226-1297-4454-9BD6-09D1F71C8EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63856592-0F02-4121-B720-0AA8D8D4036E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63856592-0F02-4121-B720-0AA8D8D4036E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63856592-0F02-4121-B720-0AA8D8D4036E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63856592-0F02-4121-B720-0AA8D8D4036E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D66990E2-C372-40C4-B0AF-0516BFD6B4E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66990E2-C372-40C4-B0AF-0516BFD6B4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66990E2-C372-40C4-B0AF-0516BFD6B4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66990E2-C372-40C4-B0AF-0516BFD6B4E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

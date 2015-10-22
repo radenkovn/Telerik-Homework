@@ -58,14 +58,26 @@
             return result.ToString();
         }
 
+        //public static bool CheckPrime(int number)
+        //{
+        //    if (number <= 1)
+        //    {
+        //        //You could throw an exception, but I don't think it is necessary, as the result false is correct. If you still wanted to do it, this is how it would look like:
+        //        //throw new ArgumentException("The number you want to check should be greater than 1!");
+        //        return false;
+        //    }
+        //    for (int divisor = 2; divisor <= Math.Sqrt(number); divisor++)
+        //    {
+        //        if (number % divisor == 0)
+        //        {
+        //            return false;
+        //        }
+        //    }
+        //    return true;
+        //}
+
         public static bool CheckPrime(int number)
         {
-            if (number <= 1)
-            {
-                //You could throw an exception, but I don't think it is necessary, as the result false is correct. If you still wanted to do it, this is how it would look like:
-                //throw new ArgumentException("The number you want to check should be greater than 1!");
-                return false;
-            }
             for (int divisor = 2; divisor <= Math.Sqrt(number); divisor++)
             {
                 if (number % divisor == 0)
@@ -102,7 +114,7 @@
                 Console.WriteLine(e.Message);
             }
 
-            if (CheckPrime(23))
+            if (CheckPrime(0))
             {
                 Console.WriteLine("23 is prime.");
             }

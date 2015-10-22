@@ -10,10 +10,10 @@
         public void ExpectCourseToAddAStudent()
         {
             var course = new Course();
-            var billy = new Student("Billy",10000);
+            var billy = new Student("Billy", 10000);
             course.AddStudent(billy);
 
-            Assert.AreSame(billy, course.getStudents[0],"Expects the student inside the course to be the same");
+            Assert.AreSame(billy, course.getStudents[0], "Expects the student inside the course to be the same");
         }
         [TestMethod]
         public void ExpectCourseToRemoveStudent()
@@ -23,7 +23,7 @@
             course.AddStudent(billy);
             course.RemoveStudent(course.getStudents[0]);
 
-            Assert.AreEqual(course.getStudents.Count,0,"Expects the students list to be empty");
+            Assert.AreEqual(course.getStudents.Count, 0, "Expects the students list to be empty");
         }
         [TestMethod]
         [ExpectedException(typeof(ArgumentOutOfRangeException))]
@@ -32,7 +32,7 @@
             var course = new Course();
             for (int i = 0; i <= 30; i++)
             {
-                var billy = new Student("Billy"+i, 10000+i);
+                var billy = new Student("Billy" + i, 10000 + i);
                 course.AddStudent(billy);
             }
         }

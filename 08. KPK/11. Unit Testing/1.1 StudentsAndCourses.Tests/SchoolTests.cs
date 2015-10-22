@@ -13,7 +13,7 @@
             var billy = new Student("Billy", 10000);
 
             school.AddStudent(billy);
-            Assert.AreEqual(school.Students[0], billy,"Expect the add method to add valid students correctly");
+            Assert.AreEqual(school.Students[0], billy, "Expect the add method to add valid students correctly");
         }
         [TestMethod]
         [ExpectedException(typeof(ArgumentException))]
@@ -53,7 +53,7 @@
 
             school.AddCourse(course);
 
-            Assert.AreEqual(school.Courses[0], course,"Expected the school to have an added course");
+            Assert.AreEqual(school.Courses[0], course, "Expected the school to have an added course");
         }
         [TestMethod]
         [ExpectedException(typeof(ArgumentNullException))]
