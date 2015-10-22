@@ -1,0 +1,10 @@
+IF THIS CRASHES FOR YOU, YOU MIGHT NEED TO RECREATE THE ENTITIES, BECAUSE MY CONNECTION STRING IS NOT "."
+(I have no clue if that would be needed).
+
+
+THE NAMES I CHOSE ARE "NorthwindEntities" 
+AND "NortwinEntitiesTwin" for my models
+
+SORRY.
+
+OTHERWISE IT SHOULD WORK FLAWLESSLY :)
