@@ -24,7 +24,7 @@
   
 Answer
 --------
-It should be should be N from for (int i=0; i<arr.Length; i++) and then n + n-1 + n-2 + n-3 + .... + 1 = n(2*n + (n-1)*-1)/2 = n/2 * (n+1), So if we add the first for loop it's (n*n/2 + n/2) + n which is o(n^2)
+It should be should be N from ```cs for (int i=0; i<arr.Length; i++) ``` and then n + n-1 + n-2 + n-3 + .... + 1 = n(2*n + (n-1)*-1)/2 = n/2 * (n+1), So if we add the first for loop it's (n*n/2 + n/2) + n which is o(n^2)
 
 2. **What is the expected running time of the following C# code?**
   - Explain why using Markdown.
