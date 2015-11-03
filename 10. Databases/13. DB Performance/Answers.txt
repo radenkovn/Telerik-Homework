@@ -1,0 +1,16 @@
+01. 7 seconds for this
+
+use SampleHW
+DBCC DROPCLEANBUFFERS; 
+GO
+DBCC FREEPROCCACHE
+GO
+select *
+from FirstTable
+where [date] = '2016/12/01'
+
+
+02. Immediately after cached
+03. Immediately after cached
+
+04. A few seconds
