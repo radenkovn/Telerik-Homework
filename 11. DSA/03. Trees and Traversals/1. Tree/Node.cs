@@ -60,5 +60,22 @@
             return sum;
         }
 
+        public string FindLongestPath()
+        {
+            string path = "";
+
+            if (this.ChildrenCount == 0)
+            {
+                return "";
+            }
+
+            path += this.Value + " ";
+
+            foreach (var node in this.Children)
+            {
+                path += node.FindLongestPath();
+            }
+            return path;
+        }
     }
 }

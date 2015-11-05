@@ -19,7 +19,8 @@
             FindParentNode(nodes);
             FindMiddles(nodes);
             FindLeaves(nodes);
-            FindTheLongestPath(nodes);
+            var parent = FindParentNode(nodes);
+            Console.WriteLine("Longest path length: {0}", parent.FindLongestPath());
         }
 
         public static List<Node> GetNodes()
@@ -85,14 +86,6 @@
                     Console.WriteLine("Leaf node - {0}", node.Value);
                 }
             }
-        }
-
-        public static void FindTheLongestPath(List<Node> nodes)
-        {
-            var parent = FindParentNode(nodes);
-
-            Console.WriteLine(parent.CalculateSum());
-
         }
     }
 }
