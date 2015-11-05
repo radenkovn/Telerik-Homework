@@ -343,7 +343,6 @@
             XmlNodeList albums = catalogue.SelectNodes(xPathQuery);
             var artists = new Hashtable();
             var searchAttribute = "artist";
-
             foreach (XmlNode album in albums)
             {
                 var currentArtist = album[searchAttribute].InnerText;

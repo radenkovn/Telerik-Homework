@@ -9,9 +9,8 @@ class MaxSeq
 {
     static void Main()
     {
-        int[] numbers = { 2, 1, 1, 2, 3, 3, 2, 2, 2, 2, 1, 10, 11, 13, 13, 13, 13, 14, 15, 16, 17, 13, 13, 13, 13, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 4 };
-        int currentIndex;
-        int currentCounter;
+        int[] numbers = { 2, 1, 1, 2, 3, 3, 2, 2, 2, 2, 1, 10, 11, 13, 13, 13, 13, 14, 15, 16, 17, 13, 13, 13, 13, 6, 6, 6, 6, 6, 7, 8, 9, 10, 11, 12, 13, 14, 6, 6, 6, 6, 6, 6, 6, 4 };
+  
         int maxCounter = 1;
         int maxIndex = 0;
         bool nextSame;
@@ -38,6 +37,8 @@ class MaxSeq
             }
         }
 
+        int currentIndex;
+        int currentCounter;
 
         for (int i = 0; i < numbers.Length - 1; i++)
         {

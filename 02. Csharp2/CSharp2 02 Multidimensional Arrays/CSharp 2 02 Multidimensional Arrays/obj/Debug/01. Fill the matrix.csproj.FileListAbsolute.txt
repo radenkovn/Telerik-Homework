@@ -13,3 +13,6 @@ C:\Users\Admin\Documents\Visual Studio 2013\Projects\CSharp2 02 Multidimensional
 C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\Csharp2\CSharp2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\bin\Debug\CSharp 2 02 Multidimensional Arrays.exe.config
 C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\Csharp2\CSharp2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\obj\Debug\CSharp 2 02 Multidimensional Arrays.exe
 C:\Users\Admin\Documents\Visual Studio 2013\Projects\Telerik Homework\Csharp2\CSharp2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\obj\Debug\CSharp 2 02 Multidimensional Arrays.pdb
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\bin\Debug\CSharp 2 02 Multidimensional Arrays.exe.config
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\obj\Debug\CSharp 2 02 Multidimensional Arrays.exe
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 02 Multidimensional Arrays\CSharp 2 02 Multidimensional Arrays\obj\Debug\CSharp 2 02 Multidimensional Arrays.pdb
