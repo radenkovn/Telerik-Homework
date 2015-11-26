@@ -4,3 +4,9 @@ c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\MaxSum\bi
 c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\MaxSum\obj\Debug\08. MaxSum.csprojResolveAssemblyReference.cache
 c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\MaxSum\obj\Debug\MaxSum.exe
 c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\MaxSum\obj\Debug\MaxSum.pdb
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 01 Arrays\MaxSum\bin\Debug\MaxSum.exe.config
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 01 Arrays\MaxSum\obj\Debug\MaxSum.exe
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 01 Arrays\MaxSum\obj\Debug\MaxSum.pdb
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 01 Arrays\MaxSum\bin\Debug\MaxSum.exe
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 01 Arrays\MaxSum\bin\Debug\MaxSum.pdb
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 01 Arrays\MaxSum\obj\Debug\08. MaxSum.csprojResolveAssemblyReference.cache

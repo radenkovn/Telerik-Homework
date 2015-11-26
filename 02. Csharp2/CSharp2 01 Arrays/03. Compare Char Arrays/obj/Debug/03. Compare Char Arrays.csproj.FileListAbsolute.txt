@@ -4,3 +4,6 @@ c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\03. Compa
 c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\03. Compare Char Arrays\obj\Debug\03. Compare Char Arrays.csprojResolveAssemblyReference.cache
 c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\03. Compare Char Arrays\obj\Debug\_03.Compare_Char_Arrays.exe
 c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\03. Compare Char Arrays\obj\Debug\_03.Compare_Char_Arrays.pdb
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 01 Arrays\03. Compare Char Arrays\bin\Debug\_03.Compare_Char_Arrays.exe.config
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 01 Arrays\03. Compare Char Arrays\obj\Debug\_03.Compare_Char_Arrays.exe
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 01 Arrays\03. Compare Char Arrays\obj\Debug\_03.Compare_Char_Arrays.pdb

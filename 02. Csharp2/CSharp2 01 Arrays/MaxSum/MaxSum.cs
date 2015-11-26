@@ -8,7 +8,7 @@ class MaxSum
 {
     static void Main()
     {
-        int[] numbers = { 2, 3, -6, -1, 2, -1, 6, 10, 4, -8, 8 };
+        int[] numbers = { 2, 3, -6, 30, -1, 2, -1, 6, 10, 4, -8, 8, -30, 30, 5 };
         int maxSum = 0;
         int maxCurrent = 0;
         int counter = 0;

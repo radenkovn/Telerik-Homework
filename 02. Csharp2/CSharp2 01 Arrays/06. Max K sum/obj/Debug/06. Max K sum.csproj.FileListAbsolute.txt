@@ -3,3 +3,9 @@ c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\06. Max K
 c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\06. Max K sum\bin\Debug\_06.Max_K_sum.pdb
 c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\06. Max K sum\obj\Debug\_06.Max_K_sum.exe
 c:\users\admin\documents\visual studio 2013\Projects\CSharp2 01 Arrays\06. Max K sum\obj\Debug\_06.Max_K_sum.pdb
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 01 Arrays\06. Max K sum\bin\Debug\_06.Max_K_sum.exe.config
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 01 Arrays\06. Max K sum\obj\Debug\_06.Max_K_sum.exe
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 01 Arrays\06. Max K sum\obj\Debug\_06.Max_K_sum.pdb
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 01 Arrays\06. Max K sum\bin\Debug\_06.Max_K_sum.exe
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 01 Arrays\06. Max K sum\bin\Debug\_06.Max_K_sum.pdb
+C:\Users\Admin\Documents\GitHub\Telerik-Homework\02. Csharp2\CSharp2 01 Arrays\06. Max K sum\obj\Debug\06. Max K sum.csprojResolveAssemblyReference.cache
