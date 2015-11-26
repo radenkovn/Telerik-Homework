@@ -3,13 +3,11 @@
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
     public class Startup
     {
-        static int[] filled;
-        static int n;
+        private static int[] filled;
+        private static int n;
 
         public static void Main()
         {
@@ -29,6 +27,7 @@
             }
             return arr;
         }
+
         public static void SimulateNested(int[] arr, int index, int mask)
         {
             var n = arr.Length;

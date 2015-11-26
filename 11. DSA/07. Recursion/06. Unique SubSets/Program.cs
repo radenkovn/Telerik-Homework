@@ -8,16 +8,16 @@
 
     public class Startup
     {
-        static string[] filled;
-        static int n;
-        static int k;
+        private static int n;
+        private static int k;
+        private static string[] filled;
 
         public static void Main()
         {
             //n = int.Parse(Console.ReadLine());
             n = 2;
             var arr = new string[n];
-            filled = new string[] { "test", "rock", "fun" ,"hello"};
+            filled = new string[] { "test", "rock", "fun", "hello" };
             k = filled.Length;
             SimulateNested(arr, 0, (1 << k) - 1);
         }

@@ -3,19 +3,19 @@
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-
 
     public class Startup
     {
-        static bool found = false;
-        static int counter = 0;
-        static string empty = "-";
-        static string path = "";
-        static string taken = "X";
-        static string start = "S";
-        static string[,] matrix = 
+        private static int rows;
+        private static int cols;
+        private static bool found = false;
+        private static int counter = 0;
+        private static string empty = "-";
+        private static string path = "";
+        private static string taken = "X";
+        private static string start = "S";
+
+        public static string[,] matrix = 
         {
             //{start, taken, empty, empty},
             //{empty, empty, empty, empty},
@@ -29,32 +29,31 @@
             {empty, empty, empty, empty, empty, empty, empty}
         };
 
-        static int[][] directions =
+        public static int[][] directions =
         {
-            new int[]{0, -1},
-            new int[]{0, 1},
-            new int[]{1, 0},
-            new int[]{-1, 0}
+            new int[] {-1, 0},
+            new int[] {0, 1},
+            new int[] {1, 0},
+            new int[] {0, -1},
         };
 
-        static int rows;
-        static int cols;
-
-        static void Main()
+        public static void Main()
         {
             var start = matrix[0, 0];
             rows = matrix.GetLength(0);
             cols = matrix.GetLength(1);
-            FindWays(0, 0, 0, 2);
+            Console.WriteLine();
+            FindWays(0, 0, rows - 1, cols - 1);
             if (found)
             {
                 Console.WriteLine("Found!");
                 return;
             }
+
             Console.WriteLine("Not found!");
         }
 
-        static void FindWays(int currentRow, int currentCol, int destinationRow, int destinationCol)
+        public static void FindWays(int currentRow, int currentCol, int destinationRow, int destinationCol)
         {
             if (found)
             {

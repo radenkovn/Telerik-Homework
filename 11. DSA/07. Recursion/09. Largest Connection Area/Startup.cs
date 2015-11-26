@@ -3,60 +3,67 @@
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
-
 
     public class Startup
     {
-        static int maxCounter = int.MinValue;
-        static bool found = false;
-        static int counter = 0;
-        static string empty = "-";
-        static string path = "";
-        static string taken = "X";
-        static string start = "S";
-        static string[,] matrix = 
-        {
-            {start, taken, empty, empty},
-            {empty, empty, empty, empty},
-            {empty, taken, empty, empty},
-            {empty, empty, empty, empty}
+        private static int rows;
+        private static int cols;
+        private static int maxCounter = int.MinValue;
+        private static bool found = false;
+        private static int counter = 0;
+        private static string empty = "-";
+        private static string path = "";
+        private static string taken = "X";
+        private static string start = "S";
 
-            //{start, taken, empty, empty, empty, empty, empty},
-            //{empty, taken, taken, taken, empty, taken, empty},
-            //{empty, empty, empty, taken, empty, empty, empty},
-            //{empty, taken, empty, empty, empty, taken, empty},
-            //{empty, empty, empty, empty, empty, empty, empty}
+        public static string[,] matrix = 
+        {
+            //{start, taken, empty, empty},
+            //{empty, empty, empty, empty},
+            //{empty, taken, empty, empty},
+            //{empty, empty, empty, empty}
+
+            {start, taken, empty, empty, empty, empty, empty},
+            {empty, taken, taken, taken, empty, taken, empty},
+            {empty, empty, empty, taken, empty, empty, empty},
+            {empty, taken, empty, empty, empty, taken, empty},
+            {empty, empty, empty, empty, empty, empty, empty}
         };
 
-        static int[][] directions =
+        public static Dictionary<int, string[,]> resultDict = new Dictionary<int, string[,]>();
+
+        public static int[][] directions =
         {
-            new int[]{0, -1},
-            new int[]{0, 1},
-            new int[]{1, 0},
-            new int[]{-1, 0}
+            new int[] {-1, 0},
+            new int[] {0, 1},
+            new int[] {1, 0},
+            new int[] {0, -1},
         };
 
-        static int rows;
-        static int cols;
-
-        static void Main()
+        public static void Main()
         {
             var start = matrix[0, 0];
             rows = matrix.GetLength(0);
             cols = matrix.GetLength(1);
             var end = matrix[rows - 1, cols - 1];
             FindWays(0, 0, rows - 1, cols - 1);
-            //Console.WriteLine("The longest way);
+            Console.WriteLine();
+            Console.WriteLine("The longest way is {0} steps long!", maxCounter);
+            Console.WriteLine();
+            PrintMatrix(resultDict[maxCounter]);
+
         }
 
-        static void FindWays(int currentRow, int currentCol, int destinationRow, int destinationCol)
+        public static void FindWays(int currentRow, int currentCol, int destinationRow, int destinationCol)
         {
             if (currentRow == destinationRow && currentCol == destinationCol)
             {
-                PrintMatrix();
+                //PrintMatrix();
                 maxCounter = Math.Max(maxCounter, counter);
+                if (!resultDict.ContainsKey(maxCounter))
+                {
+                    resultDict[maxCounter] = matrix.Clone() as string[,];
+                }
                 return;
             }
 
@@ -83,7 +90,7 @@
             }
         }
 
-        private static void PrintMatrix()
+        private static void PrintMatrix(string[,] matrix)
         {
             for (int i = 0; i < rows; i++)
             {

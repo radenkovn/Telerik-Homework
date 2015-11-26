@@ -3,18 +3,19 @@
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
 
     public class Startup
     {
-        static int counter = 0;
-        static string empty = "-";
-        static string path = "";
-        static string taken = "X";
-        static string start = "S";
-        static string[,] matrix = 
+        private static int rows;
+        private static int cols;
+        private static int counter = 0;
+        private static string empty = "-";
+        private static string path = "";
+        private static string taken = "X";
+        private static string start = "S";
+
+        private static string[,] matrix = 
         {
             //{start, taken, empty, empty},
             //{empty, empty, empty, empty},
@@ -28,18 +29,15 @@
             {empty, empty, empty, empty, empty, empty, empty}
         };
 
-        static int[][] directions =
+        private static int[][] directions =
         {
-            new int[]{0, -1},
-            new int[]{0, 1},
-            new int[]{1, 0},
-            new int[]{-1, 0}
+            new int[] {-1, 0},
+            new int[] {0, 1},
+            new int[] {1, 0},
+            new int[] {0, -1},
         };
 
-        static int rows;
-        static int cols;
-
-        static void Main()
+        public static void Main()
         {
             var start = matrix[0, 0];
             rows = matrix.GetLength(0);
@@ -48,7 +46,7 @@
             FindWays(0, 0, rows - 1, cols - 1);
         }
 
-        static void FindWays(int currentRow, int currentCol, int destinationRow, int destinationCol)
+        public static void FindWays(int currentRow, int currentCol, int destinationRow, int destinationCol)
         {
             if (currentRow == destinationRow && currentCol == destinationCol)
             {
@@ -90,8 +88,8 @@
                 Console.WriteLine();
                 Console.WriteLine();
             }
-            Console.WriteLine("--------");
-
+            Console.WriteLine("-----------------------");
+            Console.WriteLine();
         }
     }
 }

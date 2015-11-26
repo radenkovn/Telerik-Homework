@@ -3,13 +3,12 @@
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    using System.Text;
-    using System.Threading.Tasks;
 
     public class Startup
     {
-        static int k;
-        static int n;
+        private static int k;
+        private static int n;
+
         public static void Main()
         {
             //n = int.Parse(Console.ReadLine());
